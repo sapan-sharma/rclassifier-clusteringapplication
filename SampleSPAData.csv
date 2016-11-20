@@ -1,0 +1,628 @@
+user_id,course,first_name,last_name,stream,branch,collegeName,collegeAddress,gender,address,city,pincode
+2773,SPA,...,...,Engineering,Chemical,DJ  SANGHVI COLLEGE OF ENG,VILE PARLE WEST,Female,"A-201, SARITA C.H.S. ,RUSTOM IRANI MARG, DAHISAR WEST. MUMBAI -400068.",Mumbai,400068
+2775,"SPA, OOPM (Java), Data Structures (DSF), Android Programming, AOAD",...,...,Engineering,IT,XAVIER COLLEGE OF ENGINEERING,MAHIM,Male,"K-130,C/3,MAHAVIR NAGAR,SHANKAR LANE
+KANDIVALI (WEST)",Mumbai,400067
+2777,SPA,...,...,Engineering,IT,spit,andheri(w),Male,"2nd floor,dadarkar bldg,5/7 v.p road,c.p tank,mumbai 400004. ",mumbai,400004
+2781,"SPA, OOPM (Java), Android Programming",...,...,Engineering,IT,Sardar Patel Institute Of Technology,Bhavans campus azad nagar Andheri west,Female,82/86 raghavji road 5/B botawala building gowalia tank grant road west mumbai -36,mumbai,400036
+2785,"SPA, OOPM (Java), Data Structures (DSF), AOAD",...,...,Engineering,Civil,Thakur College Of Engineering And Technology,NULL,Male,"F-603,Shanti No. 1 CHS Ltd., Mathuradas Extension. Road, Kandivali-(West).",Mumbai,400067
+2786,SPA,...,...,Engineering,Computer,Thakur College,NULL,Male,"A-501, Sunlit Heights, S. V. Road, Opp. New Police Stn. Dahisar(E)",Mumbai,400068
+2787,"SPA, Microprocessors",...,...,Engineering,IT,Thakur college,Kandivali east thakur village,Male,"Yash/26 No Society, Room no B - 17, 2nd Mahada Lokhandwala Kandivali East",Mumbai,400101
+2788,SPA,...,...,Engineering,Computer,TSEC,"P G KHER MARG,OFF LINKING ROAD,BANDRA WEST,",Female,"b-307,sonal apt,cabin roaad ,bhayander east.",Mira Bhayandar,401105
+2789,SPA,...,...,Engineering,Computer,ATHARVA COLLEGE OF ENGINEERING,"MARVE ROAD, CHARKOP NAKA ,MALAD(W.),MUMBAI 400095.",Female,"F-302,NISARG HEAVEN CHS,POISAR GYMKHANA MARG,MAHAVIR NAGAR,KANDIVALI(W.)",MUMBAI,400067
+2790,"AOAD, SPA, OOPM (Java), Data Structures (DSF), DBMS",...,...,Engineering,Electronics,SARDAR PATEL INSTITUTE OF TECHNOLOGY,"BHAVANS CAMPUS,MUNSHI NAGAR,ANDHERI(W.),MUMBAI 400058",Female,"H/17,D-3,SAMARTH KRUPA, SAHYADRI NAGAR,CHARKOP,KANDIVALI(W.)",MUMBAI,400067
+2792,SPA,...,...,Engineering,Electronics,DJ  SANGHVI COLLEGE OF ENGGINEERING,Bhaktivedanta Marg JVPD Parle (west),Female,502 Eesha Krupa near Malad police station Brahman Sabha lane malad (west),Mumbai,600064
+2793,"SPA, OOPM (Java), Data Structures (DSF), AOAD",...,...,Engineering,IT,KJ SOMAIYA VIDYAVIHAR,NULL,Female,"B-5b, AARTI CHS, OLD NAGARDAS ROAD, ANDHERI(E)",MUMBAI,400069
+2794,SPA,...,...,Engineering,Electronics,DJSCE,"Plot No U-15, J.V.P.D. Scheme, Bhaktivedanta Swami marg, Vileparle (West), Mumbai-400056",Male,"7/B, Shreenath Apartment, Jiwanji Pestonji Road, Somwar Bazar
+Near Hanuman Mandir, Malad (W.), Mumbai-400064",Mumbai,400064
+2796,SPA,...,...,Engineering,Mechanical,THAKUR COLLEGE OF ENGINEERING AND TECHNOLOGY,NULL,Male,"C404, Aditya Soc, Link Rd Chickuwadi,Borivali(W)",Mumbai,400092
+2798,"SPA, Data Structures (DSF), OOPM (Java)",...,...,Engineering,IT,RAJIV GANDHI INSTITUTE OF TECHNOLOGY,NULL,Female,"C-7, 401, Pawan Hans Juhu Housing Complex, Daulat Nagar, Relief road end, Santacruz West
+",Mumbai,400054
+2799,SPA,...,...,Engineering,Biomedical,THADOMAL SHAHANI ENGINEERING COLLEGE,"P.G. KHER MARG, TPS3 BANDRA WEST, MUMBAI 400050",Female,"B 8 JEEVAN SANGAM CHS, DADABHAI CR RD , NEAR BHAVAN'S COLLEGE ANDHERI WEST",MUMBAI,400058
+2800,SPA,...,...,Engineering,IT,RAJIV GANDHI INSTITUTE OF TECHNOLOGY,Andheri versova West,Female,"174 B VISHNUBAUG, S.V ROAD, ANDHERI(WEST)",Mumbai,400058
+2803,"Android Programming, SPA, OOPM (Java), DSA",...,...,Engineering,IT,THADOMAL SHAHANI ENGINEERING COLLEGE,NULL,Male,"D-409,kamla nagar,
+M.G.Road
+kandivali(west)",mumbai,400067
+2804,SPA,...,...,Engineering,Electronics,D J Sanghvi college of engineering,"plot no u-15,jvpd scheme,bhakti vedant swami marg,Vile Parle(west),Mumbai-400056",Male,"02-Vijay Villa,ashok nagar,Kandivali east,Mumbai-400101",Mumbai,400101
+2806,SPA,...,...,Engineering,IT,FR AGNEL ASHRAM BANDRA,"FR.AGNEL COLLEGE
+BANDSTAND BANDRA(W)",Female,"603,EVENTIDE SOCIETY
+CD MARG
+DANDA PADA 
+KHAR (W)
+MUMBAI",,400052
+2807,"SPA, OOPM (Java), DSA, Web Progamming / IP, Android Programming",...,...,Engineering,Computer,rajiv gandhi institute of technology,NULL,Female,"501/A,sweta park,daulat nagar,road no.-2,borivali-east",mumbai,400066
+2808,"SPA, Data Structures (DSF), OOPM (Java)",...,...,Engineering,Electronics,Rajiv Gandhi Institute of Technology,"off juhu versova link road , versova , andheri west ,mumbai -53",Male,"A-304 dipti greens opp bombay cambridge school, jb  nagar , chakala , mumbai -99",Mumbai,400099
+2809,"SPA, Data Structures (DSF)",...,...,Engineering,instrumentation,RAJIV GANDHI INSTITUTE OF TECHNOLOGY,"JUHU VERSOA LINK ROAD,VERSOVA,ANDHERI WEST,MUMBAI 53",Male,"1/25,SWATANTRYA SAINIK NAGAR,AMBOLI,ANDHERI(WEST),MUMBAI 400058",Mumbai,400058
+2812,"SPA, OOPM (Java), Data Structures (DSF)",...,...,Engineering,NULL,St Francis,NULL,Male,Borivali(W),Mumbai,
+2813,SPA,...,...,Engineering,IT,DJ Sanghvi College of Engineering,"Plot No. U-15, JVPD Scheme, Bhaktivedanta Swami Marg, Vile Parle West",Male,"48-C, Krishna Krupa, Shankar Lane, Kandivali West",Mumbai,400067
+2814,SPA,...,...,Engineering,Mechanical,DJSCE,"Shri DJ Sanghvi College of Engineering,Bhaktivedanta Magr,Vile Parle(West).",Male,"A/63/504, Safalta, Anand Nagar, Dahisar(East).",Mumbai,400068
+2815,SPA,...,...,Engineering,Computer,RAJIV GANDHI INSTITUTE OF TECHNOLOGY,VERSOVA,Male,"A-401, SWASTIK PARK, PLOT NO.327/328, JAWAHAR NAGAR, GOREGAON - WEST, ",MUMBAI,NULL
+2821,"SPA, OOPM (Java)",...,...,Engineering,IT,Thakur college of engineering and technology,NULL,Male,"302,Ruchi Tower,60,feet road, opp ICICI Bank . ",Bhayandar,401101
+2822,"SPA, OOPM (Java), Data Structures (DSF), AOAD",...,...,Engineering,IT,D J Sanghvi,NULL,Male,"3/11 dharma vir building , ashok nagar , kandivali ( east )",Mumbai,400101
+2823,SPA,...,...,Engineering,Computer,VELLORE INSTITUTE OF TECHNOLOGY CHENNAI,"VELLORE INSTITUTE OF TECHNOLOGY,
+VANDALLUR - KELAMBAKKAM ROAD,
+CHENNAI, TAMIL NADU 600127",Male,"E-403, PANCHSHEEL GARDENS CHS., MAHAVIR NAGAR, KANDIVALI (WEST),",Mumbai,400067
+2824,"SPA, OOPM (Java), Data Structures (DSF), AOAD",...,...,Engineering,Computer,st francis institute of tecnology,"mount poinsur ,SVP ROAD BORIVALI WEST MUMBAI 400103",Female,"D/74  RUSTOMJEE REGAL RUSTOMJEE COMPLEX J S MARG 
+DAHISAR WEST MUMBAI 400068",MUMBAI,400068
+2825,SPA,...,...,Engineering,Mechanical,PIIT,Panvel,Male,"206,Brahamananda,shivaji nagar,vile parle",Mumbai,400057
+2827,"OOPM (Java), Data Structures (DSF), Automata Theory / TCS, DBMS, SPA",...,...,Engineering,Mechanical,DJ Sanghavi,Andheri,Male,"42, Snehadara Housing Soc Opp Jeevan vikas kendra Hospital, koldongri sahar road Andheri(E) Mum-69",Mumbai,400069
+2828,SPA,...,...,Engineering,Computer,Rajiv Gandhi Institute Of Technology,"Juhu Versoa Link Road,Versoa,Andheri West,Mumbai 400053",Male,A/403 Om Sai Vishwakarma Darshan Society Shahji Raje Road Vile Parle East.,Mumbai,400057
+2829,SPA,...,...,Engineering,Computer,Thakur Institute of Technology,"Thakur Complex,Kandivali(E),Mumbai.",Female,"9,Namrata Apt,3rd Flr,Odhav Nagar,Shantivan,Borivali(E),",Mumbai,400066
+2830,SPA,...,...,Engineering,Mechanical,Thakur College,Kandivali,Male,"5/B24, Jawahar Society Govind nagar, Sodawala lane Borivali(W)",Mumbai,400092
+2831,"SPA, OOPM (Java)",...,...,Engineering,Computer,LR TIWARI COLLEGE,POLICE COMMISSIONER BUNGALOW MIRA ROAD EAST,Male,c/201 laxmi narayan apt near vijaya bank jesal park bhayander (east),Mumbai,401105
+2832,"SPA, OOPM (Java)",...,...,Engineering,IT,Sardar Patel Institute of Technology,NULL,Female,"101, Skyway Apartments, Y.A.C Nagar, Kondivita Road, Marol, Andheri East,",MUMBAI,400059
+2833,"SPA, OOPM (Java), DSA, Automata Theory / TCS",...,...,Engineering,Computer,St Francis College of Engineering,Borivili(W),Male,"F/4, Nimesh Apartments, SVP Road, Borivili(W)",Mumbai,400092
+2835,SPA,...,...,Engineering,Computer,atharva college of engineering,"atharva educational complex,malad- marve road,charkop naka, malad(west),mumbai-400095",Female,"G-1/04,jalpadma society,bangur nagar ,goregoan(west),mumbai-400090",Mumbai,400090
+2836,SPA,...,...,Engineering,IT,VJTI,NULL,Male,"C-504,HARMONY,NEAR DAMODAR WADI,ASHOK NAGAR,KANDIWALI(EAST),MUMBAI-400101.",MUMBAI,400101
+2837,SPA,...,...,Engineering,Computer,D J Sanghvi College of Engineering,Ville Parle,Male,B-604 Dena Bhavan Patel Estate Road Jogeshwari West Mumbai-400102,Mumbai,400102
+2838,SPA,...,...,Engineering,Computer,Watumull institute of Engineering,Worli,Male,"1995/25,HIMKANYA C.H.S,OLD M.H.B COLONY,GORAI ROAD,BORIVALI(WEST),MUMBAI-400091",MUMBAI,400091
+2839,SPA,...,...,Bscit,Computer,MAHADEV LAXMAN DAHANUKAR COLLEGE OF COMMERCE,VILE PARLE (EAST),Male,"A/404,VICEROY PARK,KANDARPADA,DAHISAR WEST,MUMBAI",MUMBAI,400068
+2840,SPA,...,...,Engineering,Electronics,DJ Sanghvi,Ville Parle West,Male,"602 Rustomjee Excellency ,Adarsh Dudhalaya Road ,Malad",Mumbai,400064
+2841,"SPA, OOPM (Java), DSA",...,...,Engineering,NULL,K J SOMAIYA COLLEGE OF ENGINEERING,NULL,Male,"B/1102,MAYFAIR MEREDIAN, AMBOLI, CEASAR ROAD, ANDHERI WEST, MUMBAI - 400058",MUMBAI,NULL
+2842,"SPA, OOPM (Java), Ethical Hacking, Android Programming",...,...,Engineering,Computer,VJTI,"H.R MAHAJANI MARG, MATUNGA ",Male,"1001, RADHA VISHWESHWAR, NARSING LANE, MALAD ( WEST ).",MUMBAI,400064
+2843,SPA,...,...,Engineering,Electronics,SPIT,Munshi Nagar Andheri west,Male,"A-101, Mohana, Doordarshan c.h.s., Gokuldham, Goregaom east, Mumbai-63",Mumbai,400063
+2844,SPA,...,...,Engineering,Mechanical,Terna College of Engg,"Terna College Of Engg,nerul(west)",Male,"CHS-357, the manglorian garden homes ,sahar road ,andheri(east)",mumbai,400069
+2845,"Android Programming, SPA, OOPM (Java)",...,...,Engineering,Electronics,st francis,"st Francis institute of technology
+",Male,1201  jalaram vihar ganjawala lane borivali (W),NULL,NULL
+2846,"SPA, Web Progamming / IP",...,...,Engineering,Civil,RIZVI COLLEGE OF ENGINEERING,"NEW RIZVI EDUCATIONAL COMPLEX,OFF CARTER ROAD,SHERLY RAJAN ROAD,PALI HILL,BANDRA(WEST)",Male,"D/201,TRANS APARTMENT,MAHAKALI CAVES ROAD,ANDHERI(EAST),MUMBAI-93",Mumbai,400093
+2847,"SPA, OOPM (Java)",...,...,Engineering,Electronics,VIDHIYAVARDHINI COLLEGE OF ENGG,"VIDHIYAVARDHINI COLLEGE OF ENGG , AMBADI ROAD, NEAR ANDY BURGER ,VASAI WEST",Male,"C/203,VASANT MANDIR ,AMBADI ROAD, VASAI WEST",MUMBAI,401202
+2848,"SPA, OOPM (Java)",...,...,Engineering,IT,DJ Sanghavi,"PLOT NO U-15,J.V.P.D SCHEME,BHAKTI VEDANTA SWAMI MARG,VILE PARLE WEST,MUMBAI-400056",Male,"A-1/1 ISHWAR BHUVAN ,RANI SATI ROAD, MALAD (EAST)",Mumbai,400097
+2849,SPA,...,...,Engineering,IT,DJ Sanghvi,"plot no-U-15, J.V.P.D SCHEME,BHAKTIVEDANTA SWAMI MARG,VILE PARLE(WEST),MUMBAI-56",Male,"3,KRISHNA BHUVAN,SAINATH ROAD,MALAD(WEST)",Mumbai,400064
+2850,SPA,...,...,Engineering,Electronics,atharva college,"Atharva Educational Complex, Malad Marve Road, Charkop Naka, Malad (W), Mumbai-400095",Male,"274/D-3, Gajmukh C.H.S., Gorai-2, Borivali (W), Mumbai-400092",Mumbai,400092
+2851,SPA,...,...,Engineering,Mechanical,VIDHYAVARDHINI,VASAI(W),Male,"B/205 SANGAM BLDG NO.1,SHIV SENA GALI,BHY (W)",NULL,NULL
+2852,SPA,...,...,Engineering,Electronics,thakur college of engineering and technology,"shyamnarayan thakur marg, thakur village, kandivali (east), mumbai-400101",Female,"gorai prachi, chs plot no 112, flat no 27, 7th floor, gorai-2, borivali (W), mumbai-91 ",mumbai,400091
+2853,SPA,...,...,Engineering,Mechanical,rajiv gandhi institute of technology,"versova link road, andheri west",Female,"C-9, Madhuri CHS, shanta wadi, off J.P.Road, Andheri west, mumbai",Mumbai,400058
+2854,SPA,...,...,Engineering,Computer,vidyalankar,"vidyalankar institute of technology, wadala east, mumbai-400037",Female,"1005 CARNATION, DOSTI ACRES, ANTOPHILL, WADALA-EAST",MUMBAI,400037
+2855,SPA,...,...,Engineering,Electronics,DJ Sanghvi,Vile parle (west),Male,"401, Dheeraj Gaurav Heights, Lokhandwala Complex, Andheri(W)",Mumbai,400053
+2856,SPA,...,...,Engineering,Electronics,DJ Shangvi,"Plot No.U-15, JVPD scheme, Bhaktivedanta Swami Marg, Ville Parle West, Mumbai 400056",Male,"11 Goldmist Bldg, Vakola pipeline road, opposite St Anthony church, Santacruz East",Mumbai,400055
+2857,"OOPM (Java), DSA, SPA",...,...,Engineering,NULL,Thakur college of engineering and technology,NULL,Male,"16,Dharampratap,damodarwadi,ashoknagar,kandivali(east).",Mumbai,400101
+2858,SPA,...,...,Engineering,Electronics,D J Sanghvi,Vile Parle (W),Female,"B-701, Mithila Apt. S.V. Road, Kandivali (W), Mumbai",Mumbai,400067
+2859,SPA,...,...,Engineering,Electronics,VJTI,Matunga,Male,"2C/609, Shantivan Bldg, Raheja Township, Malad (East), Mumbai -400097",Mumbai,400097
+2860,"SPA, OOPM (Java)",...,...,Engineering,Electronics,THADOMAL SHAHANI ENGINEERING COLLEGE,"THADOMAL SHAHANI ENGINEERING COLLEGE,
+LINK ROAD
+BANDRA WEST",Female,"D- 16 SAIWADI VIKAS. C.H.S. 
+N.S. PHADKE MARG
+ OPP PARSI COLONY,
+ANDHERI EAST",Mumbai,400069
+2861,"SPA, OOPM (Java), Android Programming",...,...,Engineering,IT,THAKUR COLLEGE,NULL,Male,"B7/13,mahindra nagar,malad(east),mumbai-400097",Mumbai,400097
+2862,"SPA, DSA",...,...,Engineering,Civil,RIZVI COLLEGE,NULL,Male,"C/601,KRISHNA HEIGHTS,UPPER GOVIND NAGAR,MALAD(EAST)",MUMBAI,400097
+2864,SPA,...,...,Engineering,Mechanical,Terna Engineering College,Nerul West Opposite Nerul station.,Male,"6/528 Sadanand Classic, 33rd Road, Khar West",Mumbai,400052
+2865,"SPA, OOPM (Java)",...,...,Engineering,Computer,Thadomal Shahani Engineering College,NULL,Male,"Flat no - 402 , B Wing , Shree Adinath Towers , Near Nancy Colony , Opposite Nancy St Depot , Borivali East.  ",Mumbai,400066
+2866,SPA,...,...,Engineering,Computer,Rajiv Gandhi Institute Of Technology,NULL,Male,"B/53 , Panorama Park , Shiv Vallabh Road , Dahisar East.",Mumbai,400068
+2869,"OOPM (Java), AOAD, SPA",...,...,Engineering,Computer,vartak,NULL,Male,504/1A Labh krupa Santoshimata road Dahisar(W),mumbai,400068
+2870,SPA,...,...,Engineering,Electronics,M H Saboo Siddik College Of Engineering,"8, Saboo Siddik Polytechnic Road, Byculla, 
+Mumbai-400008",Male,"C-22 sai krupa society collector compound, Mahakali caves road, Andheri- East",Mumbai,400093
+2871,"SPA, OOPM (Java)",...,...,Engineering,Computer,Atharva College Of Engineering,NULL,Female,"12 / 1233, KAMNA CHS LTD, Vanrai Colony, W.E.Highway ,Goregaon(E), Mum-400065",Mumbai,400065
+2873,SPA,...,...,Engineering,Electronics,SARDAR PATEL INSTITUTE OF TECHNOLOGY,"Bhavans Campus,Munshi Nagar,Andheri West,Mumbai 400058",Female,HOUSEWIFE,MUMBAI,400068
+2874,SPA,...,...,Engineering,Mechanical,Thakur College,"A-Block, Thakur Educational Capmus, 
+Shyamnarayan Thakur Marg,
+Thakur Village,
+Kandivali (east). 
+Mumbai 400101.",Male,"42/45 Ganesh Bhuvan ,
+Turel Pakhadi road, 
+Liberty Garden.
+ Malad (west). ",mumbai,400064
+2875,SPA,...,...,Engineering,Electronics,Thakur College,Kandivili East.,Female,"101/354A, Sai Prasanna Society, 
+Road No. 19, Jawahar Nagar ,
+Goregaon (West).
+",Mumbai,400062
+2876,SPA,...,...,Engineering,IT,THADOMAL SAHANI ENGINEERING COLLEGE,NULL,Male,"802 AVINASH APTS,UNION PARK,ROAD NO-3,KHAR-WEST",MUMBAI,400052
+2877,"SPA, Data Structures (DSF)",...,...,Engineering,Computer,THADOMAL SHAHANI ENGINEERING COLLEGE,"P.G. KHER MARG T.P.S. III, BANDRA(W), MUMBAI-50",Male,"601, WestWind, 6th Floor, behind Hawaian Shack, Pali Village, OFF 16th RD, Bandra (W)",Mumbai,400050
+2878,"SPA, OOPM (Java)",...,...,Engineering,Mechanical,DJ  SANGHVI COLLEGE OF ENGGINEERING,ville parle (W),Male,"2c,303/304,ahimsa dham,new link rd, malad(w)",Mumbai,400064
+2879,SPA,...,...,Engineering,Electronics,DJ SANGHVI,VILE PARLE (W),Female,"G1, Janhavi CHS, Road no. 4, Plot 2, Pandurangwadi, Goregaon(E)",Mumbai,400063
+2880,SPA,...,...,Engineering,Computer,Padmabhusan Vasantdada Patil College  of Engineering,Sion,Female,"2/15 , Pragati Society , Near  Pancholia  School ,  Mahavir  Nagar , 
+Kandivali ( West ). 
+",Mumbai,400067
+2881,SPA,...,...,Engineering,Computer,thadomal shahani,NULL,Male,4 uday darshan 11 nehru road Santacruz east,Mumbai,400055
+2882,SPA,...,...,Engineering,Electronics,Vivekanand College Societys Institute of Technology,"Hashu Advani Memorial Complex,Vivekanand Society Chembur",Male,"1405,Kanchanganga, Manish Nagar, JP road Andheri (West)
+Mumbai 400053",Mumbai,400053
+2883,"SPA, OOPM (Java)",...,...,Engineering,NULL,fr agnels bandra,NULL,Male,9/c ranwar opposite rosita apts waroda road bandra west mumbai 400050,NULL,NULL
+2884,SPA,...,...,Engineering,Computer,ST FRANCIS INSTITUTE OF TECHNOLOGY,"MOUNT POINSUR, S.V.P. ROAD, BORIVILI(WEST), MUMBAI-400 103 ",Male,"307-B, GAURI CHS, EKSAR ROAD, BORIVILI(WEST).",Mumbai,400092
+2886,SPA,...,...,Engineering,Biomedical,Tsec,NULL,Female,"540,urvidarshan room no 24 ,charkop sec 5 near dena bank ,kandivli west",NULL,NULL
+2887,"SPA, OOPM (Java)",...,...,Engineering,IT,Thadomal Shahani Engineering College,"PG Kher Marg, TPS-III Off Linking Road, Bandra West, Mumbai, Maharashtra 400050",Male,"304. Jay Krishna apt, M. G. rd. Kandivli west",Mumbai,NULL
+2888,SPA,...,...,Engineering,Computer,Shah and anchor kutuchhi engineering college,"sakec,chembur-(west)",Male,"B/302,highland park,link road,dahanukarwadi,kandivali-(west),mumbai.",mumbai,400067
+2890,"SPA, OOPM (Java), DSA, Web Progamming / IP, Automata Theory / TCS",...,...,Engineering,Mechanical,vcet,vasai,Male,"A/101, AISHWARYA CHS, PADMANAGAR, CHIKUWADI, BORIVALI WEST",Mumbai,400092
+2891,"SPA, OOPM (Java)",...,...,Engineering,Computer,Thadomal Shahani Engineering College,"PG Kher Marg, TPS-III, Off Linking Road, Bandra (West)",Male,"A-62,Ashiana apts. ,St. John Baptist Road, Bandra(West),Mumbai-400050",Mumbai,400050
+2892,SPA,...,...,Engineering,IT,Thakur college,kandivali east,Male,"D/714, Raj sundaram CHS, Ashokwan, Dahisar East",Mumbai,400068
+2893,SPA,...,...,Engineering,NULL,ST FRANCIS INSTITUTE OF TECHNOLOGY,NULL,Male,"A-4,SPERRY STAR,EKSAR ROAD,BORIVALI(W)",NULL,NULL
+2894,SPA,...,...,Engineering,Chemical,DWARKADAS J SANGHVI COLLEGE OF ENGINEERING,"PLOT NO. U-15, JVPD SCHEME, BHAKTIVEDANTA SWAMI MARG, VILE PARLE (WEST). MUMBAI-400056",Male,"B/24, SPERRY STAR C.H.S, EKSAR ROAD, OPP ICICI BANK, BORIVALI (WEST).",MUMBAI,400092
+2896,SPA,...,...,Engineering,IT,st francis institute of tecnology,"mount poinsur,svp road,borivali(W),borivali,mumbai,maharashtra 400103",Male,"flat no 46,vikas society ,rajendra nagar,dattapada road,borivali(E) mumbai-66",mumbai,400066
+2897,"SPA, OOPM (Java)",...,...,Engineering,Computer,St francis institute of tecnology,"Mount Poinsur,S.V.P. Road,Borivali-(W), Mumbai-400103",Male,"13/B/114, Mohan Soc.,Govind Nagar,Sodawala Lane,Borivali-(W)",Mumbai,400092
+2899,SPA,...,...,Engineering,Mechanical,THAKUR COLLEGE,kandivali (east),Male,"101,shivalaya,odhav nagar,borivali (E)",mumbai,400066
+2900,SPA,...,...,Engineering,IT,Sardar Patel Institute of Technology,NULL,Female,"302/C-6 PAWAN HANS HOUSING COMPLEX
+DAULAT NAGAR, SANTACRUZ (W) 
+",Mumbai,400054
+2901,SPA,...,...,Engineering,Civil,thakur college of engineering,"Thakur educational group, shaymnarayan thakur marg,thakur village,kandivali(e),mumbai400101",Male,"A/17,karishma chs,opposite yogi nagar,link road,borivali(west)",mumbai,400091
+2902,SPA,...,...,Engineering,Electronics,Thadomal Shahani Engineering College,P.G. kher Marg T.P.S. 3 bandra west mumbai -50,Female,"11/126 Ramkrishna Nagar
+Khar",Mumbai,400052
+2903,SPA,...,...,Engineering,Computer,Thadomal Shahani Engineering College,"P.G. Kher marg T.P.S 3, Bandra (W), Mumbai-50.",Female,"11/126 Ramkrishna Nagar
+Khar",Mumbai,400052
+2904,"SPA, OOPM (Java), Circuit And Transmission Lines",...,...,Engineering,Electronics,Sardar Patel Institute of Technology,"Sardar Patel Institute of Technology,
+Bharatiya Vidya Bhavan's Campus,
+Munshi Nagar,Andheri (West)
+Mumbai 400058",Male,"A-201,Morning Glory CHS,
+Thakkar Park, Aaram Society Road,
+Vakola, Santacruz (East),
+Mumbai-400055.",Mumbai,400055
+2905,"Web Progamming / IP, SPA, OOPM (Java), Android Programming",...,...,Engineering,Mechanical,TCET,"THAKUR SHYAMNARAYAN MARG,THAKUR VILLAGE,KANDIVALI EAST MUMBAI 400101",Male,"23/1778 OLD MHB COLONY,GORAI LINK ROAD,NEAR POLICE STATION,BORIVALI WEST",Mumbai,400091
+2908,"SPA, OOPM (Java)",...,...,Engineering,Computer,rajiv gandhi institute of technology,"rgit, juhu versova link road , versova andheri west mumbai- 53",Female,8 prashant chs dawood baug andheri west,Mumbai,400058
+2909,SPA,...,...,Engineering,Computer,rajiv gandhi institute of technology,rgit juhu versova link road versova andheri west mumbai -53,Female,A/102 NEW SARVOTTAM SOCIETY IRLA BRIDGE S.V ROAD ANDHERI WEST,MUMBAI,400058
+2910,SPA,...,...,Engineering,Electronics,rajiv gandhi institute of technology,rgit juhu versova link road versova andheri west mumbai-53,Female,"LADGE HOUSE, DONGRI LANE, VERSOVA, ANDHERI WEST MUMBAI-61",MUMBAI,400061
+2911,SPA,...,...,Engineering,Mechanical,ragiv gandhi institute of technology,rgit juhu versova link road versova andheri west mumbai 53,Female,"b-201/401 ascent residency,behind poonam nagar, andheri east mumbai-400060",Mumbai,400060
+2912,"SPA, OOPM (Java)",...,...,Engineering,Electronics,ragiv gandhi institute of technology,rgit juhu versova link road andheri west mumbai-53,Female,madh nava nagar via versova malad west mumbai 400061,mumbai,400061
+2913,"SPA, OOPM (Java)",...,...,Engineering,Computer,Thadomal Shahani Engineering College,NULL,Male,"601, Moru Minar, 14th Road, Khar (west)",Mumbai,NULL
+2914,SPA,...,...,Engineering,Electronics,St Francis Institute of Technology,MT POINSUR BORIVLI,Female,A/7 SUYOG JUHU VERSOVA LINK ROAD BESIDE HDFC BANK ANDHERI WEST,MUMBAI,400053
+2915,SPA,...,...,Engineering,Computer,Padmabhushan Vasant Dada Patil,"Padmabhushan Vasant Dada patil college of engineering sion,Mumbai-400022",Female,"Shahid Bhagat Singh M.I.D.C central road,behind seepz colony,Andheri East Mumbai no.4000-93",Mumbai,400093
+2916,"SPA, DSA",...,...,Engineering,IT,SPIT,Andheri west,Male,"B-204, WEST AVENUE, OPP. CIVIC CENTRE, STATION RD. NALLASOPARA - WEST ",Mumbai,401203
+2918,"SPA, OOPM (Java)",...,...,Engineering,Chemical,Dwarkadas J Sanghavi College of engineering,"Plot No. U-15, 
+J.V.P.D Scheme
+,Bhaktivedantaswami Marg,
+Vile Parle West,
+Mumbai-67.",Female,"601,Rukmani Niwas,
+Mathuradas Ext. Rd.
+Kandivali West,
+Mumbai-67.",Mumbai,400067
+2919,SPA,...,...,Engineering,Computer,D J Sanghvi,NULL,Male,"a/601 Shraddha suman ,S.V. road Borivali (W), opp gokul hotel,mumbai-400092",NULL,NULL
+2920,"SPA, OOPM (Java)",...,...,Engineering,NULL,FATHER AGNEL BANDRA,NULL,Male,"B/203,Hareshwar Paradise,new link road,kanderpada,Dahisar(west),Mumbai-400068",Mumbai,400068
+2922,"SPA, OOPM (Java), Data Structures (DSF), Android Programming, AOAD",...,...,Engineering,IT,Shah And Anchor,Shah and anchor kutchi college of engg. Chembur,Male,B 1 Chandresh shopping Arcade opp. Shirdi Nagar Navghar road Bhayandar East,Mumbai,401105
+2925,SPA,...,...,Engineering,Computer,Fr Conceicao Rodrigues College Of Engineering,"Fr Agnel Ashram, 
+Bandstand,
+Bandra (West),
+Mumbai- 400 050",Male," J-16/10,
+ Jal Mandir C.H.S,
+ Bangur Nagar,
+ Goregaon (West)",Mumbai,400104
+2930,SPA,...,...,Engineering,IT,Tsec,NULL,Male,"D-103/104,Shiv kripa,satya nagar,borivali(west)",Mumbai,400092
+2931,"SPA, OOPM (Java)",...,...,Engineering,Mechanical,RIZVI COLLEGE OF ENGINEERING,NULL,Female,"A-102,MOHANA,DOORDARSHAN,GOKULDHAM,GOREGAON(EAST),MUMBAI-400063",Mumbai,400063
+2932,SPA,...,...,Engineering,ppt,SIES graduate school of technology,NULL,Male,B-706  shanti apt no. 2 mathuradas road extn kandivali west,Mumbai,400067
+2933,SPA,...,...,Engineering,Computer,rajiv gandhi institute of technology,"juhu-versova lonk road,andheri west,mumbai",Male,"713,building-6,kapaswadi,juhu-versova link road,andheri west mumbai.",mumbai,400053
+2936,SPA,...,...,Engineering,2014,VIT  Vellore,"VIT University, Vellore - 632014",Male,"A-502 Koteshwar Palace, Jeeva Mahale Marg, Near Old Bahar Cinema, Andheri East",Mumbai,400069
+2937,"OOPM (Java), SPA",...,...,Engineering,Mechanical,RIZVI COLLEGE OF ENGINEERING,NULL,Female,"A-102,MOHANA,DOORDARSHAN SOCIETY,GOKULDHAM,GOREGAON(EAST),MUMBAI-400063",MUMBAI,400063
+2938,"SPA, Web Progamming / IP",...,...,Engineering,NULL,IIT BOMBAY,NULL,Female,"403, Vastu Shilp, Rajmata Jjijabai Road, Pump House, Andheri East",Mumbai,400093
+2939,SPA,...,...,Engineering,IT,frconcecio rodridgues college of enginerring,Bandstand bandra west,Male,"emmanuel, agashi ,chalpeth, barodi ,virar west ",Mumbai,401301
+2941,SPA,...,...,Engineering,Electronics,THAKUR COLLEGE OF ENGINEERING AND TECHNOLOGY,Thakur Village Kandivali East,Male,"204,Maitri Residency Opp KVS Club MAHAVIR nagar Kandivali West ",Mumbai,400067
+2943,SPA,...,...,Engineering,Electronics,THAKUR COLLEGE OF ENGINEERING AND TECHNOLOGY,tkakur village kandivali east,Female,vasundhara cop.society thakur village mumbai,mumbai,400101
+2944,SPA,...,...,Engineering,Computer,DJ SANGHVI College Of Engineering,"Plot No. U-15, J.V.P.D Scheme,Bhaktivedanta Marg, Vile Parle (west)",Male,"706,A wing, Blue Oasis 2, Blue Empire Complex, opp new link road,mahavir nagar, kandivali(west)",Mumbai,400067
+2945,SPA,...,...,Engineering,Computer,Dwarakadas J Sanghvi college of engineering,NULL,Male,"1006, CASCADE-1,KULUPWADI,OPP.RAVISHANKAR SCHOOL,BORIVALI(EAST)",MUMBAI,400066
+2946,"SPA, OOPM (Java)",...,...,Engineering,Production,Father Conceicao Rodrigues College of Engineering,NULL,Male,"B-4/3,Jeevan Shanti Colony,S.V Road,Santacruz West Mumbai-54",NULL,NULL
+2947,SPA,...,...,Engineering,Computer,Rizvi College Of Engineering,NULL,Male,"406, Mona A, Dadabhai Rd, Near Navrang Cinema, Andheri (West)",Mumbai,400058
+2948,SPA,...,...,Engineering,Computer,DJ Sanghavi,NULL,Male,"b-21 seelam 
+srishti sec-3
+mira road(east)
+",mira road,401107
+2951,SPA,...,...,Engineering,Mechanical,RGIT,"ANDHERI (W)
+MUMBAI",Male,"401-YAMUNA, GREEN VIEW COMPLEX,
+S.D.MARG, NEAR NANCY  COLONY,
+SAVARKAR NAGAR, BORIVALI (EAST),
+MUMBAI 400 066",Mumbai,400066
+2952,SPA,...,...,Engineering,IT,vidyavardhini college of engineering and technology,VASAI ROAD THANE 401202,Male,"A/6 SAIBABA DHAM,SAIBABA NAGAR,
+OPP RADHAKRISHNAN HIGH SCHOOL,
+BORIVALI(WEST),MUMBAI 400092",MUMBAI,400092
+2953,SPA,...,...,Engineering,Electronics,sardarpatel institute of technology,"near bhavan's college, munshi nagar,  andheri west",Male,"A/101,  Bhagya laxmi APT., NEAR MARATHI SCHOOL ,valiv goan ,  vasai east",Vasai,401202
+2954,SPA,...,...,Engineering,Computer,di sanghvi,"Jvpd scheme bhaktivendta road parle west
+",Female,A303 moreshwar krupa borivli west Mumbai,mumbai,400103
+2955,SPA,...,...,Engineering,Electronics,FATHER AGNEL,"bandstand rd,mt mary,bandra west.mumbai",Male,"ID/203,PUSHP HERITAGE,MAHAVIR NAGAR,KANDIVALI(W).MUM/BAI-400067",Mumbai,400067
+2956,"SPA, Data Structures (DSF), OOPM (Java), Android Programming",...,...,Engineering,IT,THADOMAL SHAHANI ENGINEERING COLLEGE,"THADOMAL SHAHANI ENGINEERING COLLEGE, P.G. KHER , OFF LINKING ROAD, TPS 3, BANDRA- WEST, MUMBAI -400050",Male,"C/14, VEERA SADAN , OPP. MTNL, ZAVERI BAUG, S.V.ROAD, KANDIVALI- WEST, MUMBAI - 400067.",Mumbai,400067
+2957,"SPA, OOPM (Java), Data Structures (DSF)",...,...,Engineering,Computer,D J SANGHVI,"Opposite to copper hospital, behind bhaidas hall, NR mithibai, vile parle east ",Male,"301/ JAY ASHISH BLDG NO 2, NR ABE MAT MANDIR, RAJESH HOTEL LATE",Bhayandar,401101
+2958,SPA,...,...,Engineering,Computer,Thadomal Shahani Engineering College,Bandra West,Male,"171, JayNagar G CHSL, Jankalyan Nagar, Marve Road, Malad West, Mumbai - 400095",Mumbai,400095
+2959,SPA,...,...,Engineering,Computer,xaviers institute of technology,"Mahim Causeway, opp mahim hospital
+mumbai 400061",Male,"12/192,jaiyogeshwar co.op.hsg.,charkop market sector 1 , kandiwali (w) .",Mumbai,400067
+2960,SPA,...,...,Engineering,IT,D J Sanghvi,U 15 JVPD scheme Bhaktivedanta Swami Mrag Vile parle,Male,"A 21/22 Devnagar Saibaba Nagar Kandivali(W)
+Mumbai-400067",Mumbai,400067
+2961,SPA,...,...,Engineering,Mechanical,SARDAR PATEL COLLEGE OF ENGINEERING,"BHAVAN'S  CAMPUS , MUNSHI NAGAR , ANDHERI (WEST) , MUMBAI - 400058.",Male,"10/C , JAYENDRA BHAVAN , S.K.BOLE ROAD , DADAR (WEST).",Mumbai,400028
+2962,SPA,...,...,Engineering,Mechanical,bharti vidyapeeth college of engineering,Kharghar,Male,"Panchavati chawl, kurar village malad",mumbai,400097
+2963,"SPA, OOPM (Java), Android Programming",...,...,Engineering,Civil,SARDAR PATEL COLLEGE OF ENGINEERING,andheri west,Male,"B-3, MANJU BUNGALOW, 3RD CROSS LANE , LOKHANDWALA COMPLEX",Mumbai,400053
+2964,SPA,...,...,Engineering,Civil,SARDAR PATEL COLLEGE OF ENGINEERING,ANDHERI WEST,Male,"SAAHIL, 2ND FLOOR, PRARTHANA SAMAJ ROAD, VILE PARLE EAST.",MUMBAI,400057
+2965,SPA,...,...,Engineering,Electronics,VJTI College,Matunga,Male,"301-A, Jeevan Bharat, 17th Road, Khar (W), Mumbai-52",Mumbai,400052
+2966,SPA,...,...,Engineering,Computer,veermata jijabai technological institute,"H.R. Mahajani Road, Matunga",Male,"102, Pushpam Palace, Block A-66/67, Near UMC Garden - 444",Ulhasnagar,421001
+2968,"SPA, Automata Theory / TCS",...,...,Engineering,Computer,Veermata Jijabai Technological Institute Mumbai,NULL,Male,"C-48,VJTI hostel,VJTI ,Matunga (E) , Mumbai 400019",Mumbai,400019
+2969,SPA,...,...,Engineering,Electronics,tsec,Bandra west,Female,"R.B 3, 223/1,Western Railway Colony , Bandra West",Mumbai,400050
+2970,SPA,...,...,Engineering,andheri,SARDAR PATEL COLLEGE OF ENGINEERING,munshi nagar vidya bhavans andheri west,Male,room no 50 camp no3 near western express highway behind gundavali bus stop andheri east,mumbai,400069
+2971,SPA,...,...,Engineering,Civil,SARDAR PATEL COLLEGE OF ENGINEERING,"MUNSHI NAGAR,BHAVANS COLLEGE ,ANDHERI WEST ,MUMBAI 400058",Male,"BHAIDAS BHYUTA CHAWL,MALPA HILL NO 3,ANDHERIEAST ,MUMBAI 400093",MUMBAI,400093
+2972,"SPA, OOPM (Java), Data Structures (DSF)",...,...,Engineering,Computer,VJTI,NULL,Male,"02, Heramp Apt,Plot No.149, ShivGanga Nagar, Ambernath(East)-421501",NULL,421501
+2973,"SPA, OOPM (Java), Data Structures (DSF)",...,...,Engineering,Computer,vjti,"Vjti,
+Matunga,
+Mumbai",Female,"F-201, Veena Beena soc.,
+A.D.Marg,
+Sewri",Mumbai,400015
+2974,SPA,...,...,Engineering,Computer,VJTI,NULL,Male,"D2-301 , Bright Land , Yashsvi Nagar , Thane(w)",NULL,NULL
+2976,"OOPM (Java), Data Structures (DSF), DBMS, AOAD, SPA",...,...,Engineering,Electronics,vjti,MATUNGA,Male,"603,SAI KRUPA ,
+DAWOOD BAUG LANE,
+ANDHERI (WEST),
+",MUMBAI,400058
+2977,SPA,...,...,Engineering,Electronics,vjti,"veermata jijabai technological institute, H.R. Mahajani marg, matunga, mumbai-400019.",Male,"201 tulip, thakkar park, aram society road, vakola, santacruz east, mumbai-400055.",Mumbai,400055
+2978,SPA,...,...,Engineering,Electronics,vjti,MATUNGA,Male,"A-101 SUNSWEPT, LOKHANDWALA ANDHERI (WEST)",MUMBAI,400053
+2979,SPA,...,...,NULL,NULL,vjti,NULL,Male,203 jyotdeep mahal nanda patkar road vile parle east,mumbai,NULL
+2980,SPA,...,...,Engineering,Electronics,vjti,H.R. mahajani marg matunga mumbai 400 019,Male,sandeep hanuman cross road no 2 vileparle east,Mumbai,400057
+2981,SPA,...,...,Engineering,NULL,Dwarkadas J Sanghvi,NULL,Female,"3 New Paradise , Liberty Garden , Rd 3 , Malad (west)",Mumbai,400064
+2982,SPA,...,...,Engineering,Computer,VJTI,"VJTI, Matunga",Male,"Bld-35, R-15, Shama Quarters, S.P Road, Worli, Mumbai-400030",Mumbai,400030
+2983,SPA,...,...,Engineering,andheri,sardar patel institute of technology,azad nagar off veera desai road andheri,Male,A-604 poornima vasant utsav thakur village kandivali east,mumbai,400101
+2984,SPA,...,...,Engineering,IT,Sardar patel institute of technology,Bhavans campus andheri west,Male,"Room no.15 jaldeep niwas chawl,ganesh nagar, rawalpada, dahisar east ",mumbai,400068
+2985,SPA,...,...,Engineering,Computer,VJTI,"VJTI, Matunga, Mumbai",Male,"1/ Sangeet, Model Town, 4 Bungalows, Andheri - W, Mumbai - 53",NULL,NULL
+2986,SPA,...,...,Engineering,Electronics,SPIT,NULL,Male,B-17 SAIBABA ENCLAVE TOWER BLDG NO. 3 NEAR CITI CENTRE OFF SV ROAD GOREGAON WEST,Mumbai,400062
+2987,SPA,...,...,Engineering,Mechanical,thakur college of engineering and technology,NULL,Male,7-B 256 HYLAND PARK SV ROAD DAHISAR EAST,MUMBAI,400068
+2988,SPA,...,...,Engineering,IT,KJ somaiya college of engineering,NULL,Male,"room no.5,baban gimbal chawl,near tambey school,ghartanpada no. 2,dahisar(e)",Mumbai,400068
+2989,SPA,...,...,Engineering,Electronics,ST FRANCIS INSTITUTE OF TECHNOLOGY,"ST FRANCIS INSTITUTE OF TECHNOLOGY ,S.V.P. ROAD, MT POINSUR.",Female,"402, SURYA DARSHAN BLDG.,CARTER ROAD NO.3,BORIVALI(EAST)",MUMBAI,400066
+2990,SPA,...,...,Engineering,Computer,st john palghar,Palghar east,Male,old mhb colony gorai road borivali (w) bldng no 19-1449,mumbai,400091
+2991,"SPA, OOPM (Java), Data Structures (DSF), Ethical Hacking, DBMS, AOAD, Automata Theory / TCS, Advance Java, Android Programming",...,...,Engineering,Computer,Dwarkadas J  Sanghvi College of Engineering,"Vile parle, opposite Cooper hospital.",Male,"3/5, Ganesh krupa bldg, subhash nagar, n.m. joshi marg.",NULL,400011
+2992,SPA,...,...,Engineering,Civil,Thakur College of Engineering,"A-Block, Thakur Educational Campus, Shyamnarayan Thakur Marg, Thakur Village, Kandivali (East), Mumbai 400101",Male,"Ankur bldg, A/201, TPS 3rd Rd, Off Factory Lane, Borivali (West), Mumbai-400092",Mumbai,400092
+2993,"SPA, OOPM (Java), DSA, Android Programming",...,...,Engineering,Civil,TCET,"TCET, Thakur Village ,Kandivali east",Male,"B/3,301,Hariom Apts,S V road,Borivali west",Mumbai,400092
+2994,SPA,...,...,Engineering,Computer,St Francis institute of technology,NULL,Male,"B/001, Eksar apt.,
+Chandavarkar road,
+Borivali (W),
+Mumbai- 400092",Mumbai,400092
+2995,SPA,...,...,Engineering,Mechanical,Thakur college of engineering and technology,Kandivali (east) thakur village,Male,"F/1 mehta apartment ,near bhagwati hospital, borivali(west),mumbai400103.",Mumbai,400103
+3002,"SPA, OOPM (Java)",...,...,Engineering,IT,VJTI,NULL,Male,"c-17, c block vjti boys hostel near 5 gardens, HR mahajane road, matunga",mumbai,400019
+3003,SPA,...,...,Engineering,Electronics,Watumull Institute of Electronics engineering and computer Technology,NULL,Male,"26 , Thakur Niwas , Y.R.Tawde Road , Dahisar (E) ,  Mumbai-400068",,
+3004,"SPA, Data Structures (DSF), OOPM (Java), Web Progamming / IP",...,...,Engineering,IT,St Francis,NULL,Female,"Plot - 57, Flat 504, Gangotri CHS, LT road, Gorai 2 Borivli(W)",Mumbai,400091
+3005,SPA,...,...,Engineering,Computer,St Francis,NULL,Female,"701, A wing, Gorai Shree ganesh, Plot no 83 opposite pragathi school, Borivili(W)",Mumbai,400091
+3006,SPA,...,...,Engineering,IT,Fr Conceicao Rodrigues college of Engineering,"Fr CRCE ,
+Fr Agnel Ashram,
+Bandstand,
+MUMBAI -400050",Male,"B-134,
+ Pranik Garden ,
+ Mahavir Nagar , Kandivali (west)
+Mumbai - 400067",Mumbai,400067
+3007,SPA,...,...,Engineering,IT,Fr Conceicao Rodrigues College of Engineering,"Fr Agnel Ashram,Bandstand,Bandra(W),Mumbai",Male,"C-4,Raj Siddharth Bldg,Morya nagar,Manvel pada road,Virar(E)",Virar,401305
+3008,SPA,...,...,Engineering,M.tech,DJ Sanghvi,NULL,Male,"A-402, New silvermist amboli, andheri(W)",Mumbai,400058
+3009,SPA,...,...,Engineering,IT,Father agnel college,"Father agnel college,father agnel ashram,bandstand, bandra(w)",Male,"4B-2,mithilla society,ram mandir road,virar(w),401303",Virar,401303
+3010,SPA,...,...,Engineering,Computer,Thakur college of engineering and technology,Kandivali(E)-400101,Male,"594, Kasar Alley, Shiv Shrishti Residency, 'A' Wing, 5th Floor, Flat No. 502, Adarsh Park",Bhiwandi,421302
+3012,"OOPM (Java), SPA",...,...,Engineering,Borivalli,St Francis Institute Of Technology,NULL,Male,"A-2/303 Manek Apartment, 
+Saave Nagar, C.S. Road
+Dahisar (East), 400068
+Mumbai",Mumbai,400068
+3013,SPA,...,...,Bscit,IT,thakur,thakur kandivali,Male,a,a,400066
+3014,SPA,...,...,Engineering,Computer,xavier institute of engineering,mahim cause way mahim,Male,d-206 satellite park caves road jogeshwari east,Mumbai,400060
+3015,"SPA, OOPM (Java)",...,...,Engineering,Electronics,SPIT,"Sadar Patel Institute Of Teachnology,Bhavans Campus,Munshi Nagar,Andheri-West,Mumbai-400058",Female,"13/3/3 Orchids,Bhavani Nagar,Marol Maroshi Road,Andheri-East,Mumbai-400059",Mumbai,400059
+3016,"SPA, OOPM (Java), Data Structures (DSF), DBMS",...,...,Engineering,Electronics,SARDAR PATEL INSTITUTE  OF TECHNOLOGY,"SARDAR PATEL INSTITUTE  OF TECHNOLOGY,BHAVANS CAMPUS, MUNSHI  NADAR, ANDHERI (W),MUMBAI -58",Female,"A-34,PALASH TOWERS,VEERA DESAI ROAD,ANDHERI  (W)",MUMBAI,400053
+3017,SPA,...,...,Engineering,Electronics,D J SANGHVI COLLEGE OF ENGINEERING,"PLOT NO U-15,
+J V P D SCHEME, 
+BHAKTI VEDANTA SWAMI MARG,
+VILEPARLE   (WEST)
+MUMBAI-400 056
+",Male,"S-4/17, GIRIRAJ DHARAN CHS , BANGUR NAGAR, GOREGAON (W), MUMBAI- 400 104.",MUMBAI,400104
+3018,SPA,...,...,Engineering,Electronics,DWARKADAS J SANGHVI COLLEGE OF ENGINEERING,"PLOT NO. U-15, J.V.P.D. SCHEME, BHAKTIVEDANTA SWAMI MARG, VILE PARLE (WEST), MUMBAI - 400056.",Female,"701-SAI KRIPA, DATTA MANDIR ROAD, DAHANUKAR WADI, KANDIVALI (WEST).",MUMBAI,400067
+3019,"SPA, OOPM (Java)",...,...,Engineering,Computer,Thakur college of engineering and technology,"Educational campus, shyamnarayan Thakur marg, Thakur village, kandivali (E), Mumbai -  400101",Male,"A/33, crystal building, new link rd, Dahanukarwadi, kandivali west, Mumbai-67",Mumbai,400067
+3020,SPA,...,...,Engineering,Electronics,Thakur college of engineering and technology,thakur shyamnarayan marg thakur village kandivali east,Male,"c/101 Radha residency near reena mehta college ,!50 feet road bhayander west",Mumbai,401101
+3021,"DSA, DBMS, Ethical Hacking, Linux Administration, Android Programming, SPA, OOPM (Java)",...,...,Engineering,IT,kjsomaiya,"kj somaiya
+vidyavihar(east)
+mumbai",Male,"39,RITA NIKETAN
+TELLYLANE,
+ANDHERI(EAST).
+MUMBAI-400069",Mumbai,400069
+3022,SPA,...,...,Engineering,Electronics,dj sanghavi,NULL,Male,"703,anupam,shreenagarsociety,m.g raod,goregoan(west)",Mumbai,400064
+3024,SPA,...,...,Engineering,Electronics,St Francis Institute of Technology,NULL,Female,"F-6/403,Navyuwan CHS,Shrushti Complex,Mira Road-East.",Mumbai,401107
+3025,"SPA, OOPM (Java)",...,...,Engineering,IT,sardar patel institute of technology,"Sardar Patel Institute of Technology,
+Munshi Nagar,
+Andheri West,
+Mumbai-400058",Female,"C-6 Sukhdayak CHS LTD,
+J B Nagar,
+Andheri East,
+Mumbai 400059",Mumbai,400059
+3026,SPA,...,...,Engineering,IT,SARDAR PATEL INSTITUTE OF ENGINEERING,"bhavans campus, Azad Nagar, andheri east",Female,"401, Basant Niwas, Malviya Road, Vile parle east. ",Mumbai,400057
+3027,SPA,...,...,Engineering,Computer,THADOMAL SAHANI ENGINEERING COLLEGE,"BANDRA WEST ,MUMBAI -400050",Female,"4,home CHS, relief road, daulat nagar ,santacruz west",Mumbai,400054
+3028,SPA,...,...,Engineering,Electronics,kjsomaiya SION,NULL,Male,"SANJAY SWEET FARSAN MART, OLD NAGARDAS ROAD, NICLAO WADI, GUNDOWLI ANDHERI (E) MUMBAI -69.",MUMBAI,400069
+3029,"SPA, OOPM (Java)",...,...,Engineering,Electronics,Thadomal Shahani Engineering College,"PG Kher Marg, TPS-III Off LInking Road, Bandra West, Mumbai 400050",Male,"B-511 Samartha Deep , Indradarshan Phase -III , Oshiwara , Andheri-west ",Mumbai,400053
+3030,SPA,...,...,Engineering,Computer,Thadomal Shahani Engineering College,"Near National College, Bandra West",Male,"19/137, Motilal Nagar - 3, M.G. Road, Goregaon west, Mumbai 400104",Mumbai,400104
+3031,SPA,...,...,Engineering,IT,Sardar Patel Institute of Technology,NULL,Male,"103/Type III, 
+CGS Quarters, 
+Wadala - Mumbai,
+Pin - 400031",Mumbai,400031
+3033,"SPA, OOPM (Java), Android Programming, AOAD",...,...,Engineering,Computer,Father Concieco Rodrigues college of Engineering,Father Concieco Rodrigues college of Engineering Bandstand Bandra (West) Mumbai 400050,Male,"C-3 Firat floor, Dream Society, Bhabhai Naka, Vasantrao Road Borivali (west) Mumbai 400092",Mumbai,400092
+3040,"SPA, Circuit And Transmission Lines",...,...,Engineering,IT,Fr Conceicao Rodrigues College Of Engineering,NULL,Male,"A-1 kajwala chawl,Mahakali caves road,Andheri-East",Mumbai,400093
+3050,SPA,...,...,Engineering,Computer,watumull institue,R g thadani marg worli mumbai,Male,Room no 10 shantidevi amarnath tiwari chawl pratap nagar jogeshwari east,mumbai,400060
+3051,SPA,...,...,Engineering,IT,St Francis Institute Of Technology,NULL,Male,"601/A,Shantinath Darshan Co. Hs.,Opp. Mittal College,Nahar Nagar,Malad (West)",Mumbai,400064
+3052,SPA,...,...,Engineering,IT,Thakur college,Kandivali west,Male,"A/301,leena apartment 60 feet road bhayandar west",mumbai,401101
+3053,SPA,...,...,Engineering,IT,Rajiv Gandhi Institute Of Technology,"The MCT Rajiv Gandhi Institute Of Technology,
+OFF Juhu-Versova Link Road, Versova,Andheri (w)",Male,"B/402 Green Tower, Near Bahvans College,
+Gilbert Hill Road, Andheri (w)",Mumbai,400048
+3054,SPA,...,...,Engineering,Civil,Datta meghe college of engineerig,"Airloli, Navi mumbai",Female,"A/102, Krishna Galaxy, D.M. Road, Vakola, Santacruz East, Mumbai 400055",Mumbai,400055
+3057,"SPA, OOPM (Java), Data Structures (DSF), Android Programming, AOAD",...,...,Engineering,Electronics,Thakur college of engineering and technology,"A-block, thakur educational campus, shyamnarayan thakur marg, tahkur village, Kandivali (East)",Male,"A/302 Anand enclave, opp RBK global school, indralok phase 6, bhayander (east)",mumbai,401105
+3058,"SPA, OOPM (Java), Ethical Hacking, Android Programming, AOAD",...,...,Engineering,Electronics,D J SANGHVI,NULL,Male,b 301 r n a springs cama road andheri west,mumbai,400058
+3059,SPA,...,...,Engineering,IT,Don Bosco Institute of Technology,"Premier Automobiles, Kurla, Mumbai.",Male,"A/12, GITA KIRAN, J.P ROAD,  4 BUNGALOWS , ANDHERI (w), MUMBAI-400053",Mumbai,400053
+3061,"SPA, OOPM (Java), DBMS, AOAD, Advance Java, Android Programming",...,...,Engineering,Electronics,THAKUR COLLEGE OF ENGINEERING AND TECHNOLOGY,NULL,Female,"207/208, Nikita Apartments -1, Nr Shimpoli Telephone Exchange, Borivali (w), Mumbai (400 092)",Mumbai,400092
+3063,SPA,...,...,Engineering,Electronics,K J SOMAIYA,NULL,Male,"B-4, VIKAS APT, RAMCHANDRA LANE, MALAD (W).MUMBAI-40064",MUMBAI,400064
+3064,SPA,...,...,Engineering,IT,THAKUR COLLEGE OF ENGINEERING AND TECHNOLOGY,NULL,Male,"32,Vijay Apartment, Daruwala Comp, S.V. Road Malad (W) ",Mumbai,400064
+3065,"DSA, SPA, OOPM (Java)",...,...,Engineering,Electronics,K J SOMAIYA SION,NULL,Male,"G/604 APNA GHAR RIY SOCIETY D-GROUP, SHIVAJI NAGAR, JOGESHWARI (E)",Mumbai,400060
+3066,SPA,...,...,Engineering,Computer,RGIT,"Juhu-Versova Link Road, behind HDFC Bank, Versova, Andheri (west), Mumbai-400053",Male,"T/135, Grotto Villa, Juhu Road, H.S. Revdandkar Marg, Opp. S.N.D.T. Women's University, Santacruz (West)",Mumbai,400049
+3067,"SPA, OOPM (Java), Android Programming",...,...,Engineering,Computer,Thakur college of engineering and technology,kandivali east,Female,"803 Dheeraj Gaurav Heights-1, Behind Hyundai Showroom ,Opp Infinity Mall ,Off-Newlink Road ,Andheri West ",Mumbai,400053
+3068,SPA,...,...,Engineering,Computer,Thadomal Shahani Engineering College,NULL,Male,"603, Ashish, Bapubhai Vashi Road, Vile Parle West, Mumbai-400056.",Mumbai,400056
+3069,"SPA, OOPM (Java)",...,...,Engineering,Electronics,D J SANGHVI,"PLOT NO U-15,
+J.V.P.D SCHEME,
+VILE PARLE (WEST),
+MUMBAI-400056",Male,"E/702,EKTA BHOOMI,
+MAHAVIRNAGAR,
+DAHANUKARWADI,
+KANDAVLI(W),
+MUMBAI-400067",Mumbai,400067
+3070,SPA,...,...,Engineering,IT,st johns college of engineering,"vevoor road,palghar (East)",Male,"A/2 Mohan Apartment, carter road no 1,borivali (E)",Mumbai,400066
+3073,"SPA, OOPM (Java)",...,...,Engineering,Computer,d j sanghvi,NULL,Male,"G-402,sonam kaveri, new golden nest, phase 14 , bhayander (east).",NULL,401105
+3074,"SPA, OOPM (Java)",...,...,Engineering,Electronics,FR Conceicao Rodrigues College of Engineering,Bandra (west),Male,"501,indravati CHS Ltd,
+Baburao Ranade rd,Navagaon
+Dahisar(west)
+",Mumbai,400068
+3076,SPA,...,...,Engineering,IT,FR Conceicao Rodrigues college of engineering,Bandra west,Male,"34 Nalanda, sector 3, plot no. 221 , charkop , kandivali (w), mumbai.",Mumbai,400067
+3083,SPA,...,...,Engineering,Computer,DJ Sanghvi CoE,"Road no. 1, Bhaktivedanta Swamy Marg, Mumbai 49",Male,"55/B ""Shakunt"", Vithal Nagar Society, NS Road 12, JVPD Scheme, Mumbai 400049",Mumbai,400049
+3095,SPA,...,...,Engineering,Computer,Shri LR Tiwari College of Engineering,Mira Road East,Male,"A/6, Arihant Siddhi Chs. Hsg. Soc., Saibaba Mandir Marg, Borivali  (West)",Mumbai,400092
+3097,SPA,...,...,Engineering,instrumentation,RAJIV GANDHI COLLEGE OF ENGINEERING,NULL,Male,"6 JOGESHWAREI TRIMURTI CHS LTD,
+NATWAR NAGAR ROAD NO 1,
+JOGESHWARI (E).
+",MUMBAI,400060
+3103,SPA,...,...,Engineering,IT,Vidyalankar Institute of Technology,NULL,Female,"Room no. C/6, D'souza Sadan , Near L.N temple, Mohili village, Sakinaka",Mumbai,400072
+3104,SPA,...,...,Engineering,Electronics,Vidyalankar Institute of Technology,Vidhyalankar Marg,Female,"406,Ayesha CHS.marol maroshi Rd. andheri(E) mumbai-49",Mumbai,400049
+3105,SPA,...,...,Engineering,Computer,Indira Gandhi College Of Engineering,NULL,Male,"11/4/12 Bhawani Nagar,  MM Road, Marol, Andheri (EAST)",Mumbai,400059
+3106,SPA,...,...,Engineering,Electronics,Dj Sanghvi,NULL,Female,302 Yasmin heritage vp road vile Parle west,Mumbai,400056
+3108,"SPA, Android Programming",...,...,Engineering,computer,St Francis institute of technology,mount poinsur svp road borivali west,Female,"B-1503 RUSTOMJEE RIVIERA , OFF FR. JUSTINE DSOUZA ROAD , OFF MARVE ROAD , OPPOSITE BBC , ORLEM MALAD WEST , MUMBAI 400 064",Mumbai,400064
+3109,SPA,...,...,Engineering,Electronics,THAKUR COLLEGE OF ENGINEERING AND TECHNOLOGY,"A-block thakur edu campus, shyamnayaran thakr marg ,thakur village kandivili(e) mumbai-400101.",Male,"J-303, Gokul Village ,Shanti Park, Mira Road (east), thane-401107",Mumbai,401107
+3110,SPA,...,...,Engineering,Electronics,atharva college of engineering,"CHARKOP, MALAD WEST",Male,"U/101,HANGER NAGAR , JIJAMATA ROAD, ANDHERI EAST ",Mumbai,400093
+3111,SPA,...,...,Engineering,Electronics,fr agnel college of engineering bandra,"Bandstand,bandra(w),Mumbai-400050",Male,"Jeevan shanti colonyd-13/3 ,sv road ,opp santacruz bus depot(w)",mumbai,400054
+3112,SPA,...,...,Engineering,Electronics,TSEC,NULL,Male,"303,Amartaru 4 New nagandas road, Andheri(E)",Mumbai,NULL
+3114,SPA,...,...,Engineering,Electronics,D J SANGHVI COLLEGE OF ENGINEERING,"D J SANGHVI  COLLEGE OF ENGINEERING,JVPD SCHEME,VILE PARLE (WEST),MUMBAI-56",Male,"FLAT NO 1,PRAMOD APTS,LOCAL BOARD SCHOOL LANE,DAFTARY ROAD,MALAD EAST",MUMBAI,400097
+3115,SPA,...,...,Engineering,IT,XIE,"XAVIER INSTITUTE OF ENGINEERING,OPP RAHEJA HOSPITAL,MAHIM CAUSEWAY. MAHIM WEST",Male,"2,SAI SADEN, SIR HARGOVINDAS  LANE, OFF M.V. ROAD, ANDHERI EAST. MUMBAI 400069",MUMBAI,400069
+3117,SPA,...,...,Engineering,Mechanical,Dj Sanghvi,NULL,Female,"C/501 , Sadguru compex, phase 1, Film city road, Goregaon east",mumbai,400063
+3123,SPA,...,...,Engineering,IT,KJSIEIT,"KJSIEIT,
+Everard nagar,
+Sion(E),
+Mumbai.",Male,"Ambewadi, Vasant waghia chawl,
+Highway road,
+Vile-parle(E).",Mumbai,400099
+3124,SPA,...,...,Engineering,Electronics,sardar patel institute of technology,"Spit, bhavans campus andheri west",Male,"A/503, Kremlin bldg. Jayraj Nagar,  borivali west",Mumbai,400091
+3125,"SPA, OOPM (Java)",...,...,Engineering,Computer,TSEC,NULL,Female,"702 Satguru Sanskar, 3rd road, off turner road, Bandra (west) ",Mumbai,400050
+3126,"SPA, DSA",...,...,Engineering,Electronics,SPIT,SARDAR PATEL INSTITUTE OF TECHNOLOG,Female,"103,SHALIBHADRA NAGAR,B.P.ROAD,BHAYANDER(EAST).",Mumbai,401105
+3128,"SPA, OOPM (Java)",...,...,Engineering,Mechanical,dj sanghavi,DJ SANGHVI COLLEGE OF ENGINEERING VILE PARLE,Male,A/105 PETER APT PETER DIAS ROAD BANDRA WEST,MUMBAI,400050
+3130,SPA,...,...,Engineering,Civil,VIDYA VARDHINI COLLEGE OF ENGG,"K.T. MARG VASAI ROAD , VASAI(W) - 40201",Male,"C/8 , AMI VARSHA , S.V.ROAD , KANDIVALI(W) , MUMBAI 400067.",MUMBAI,400067
+3131,SPA,...,...,Engineering,IT,shah and anchor college of engineering,NULL,Male,"301 , C\4 , hari om apt, shahstri nagar , s.v.road, boivali west ",mumbai,400092
+3132,SPA,...,...,Diploma,andheri,xaviers institute of engineering,mahim west,Male,"c/208, ratna priya complex, radha swami road, bhayander west",Mumbai,401101
+3134,"SPA, OOPM (Java), Data Structures (DSF)",...,...,Engineering,IT,st xavier,mahim west,Female,"f/404,satellite park,caves road,behind lic office,jogeshwari east",Navi Mumbai,400060
+3135,SPA,...,...,Engineering,Electronics,DJ SANGHVI COLLEGE OF ENGINEERING,NULL,Female,"A/603 HULAS BASTI GARDENS, MAHAVIR NAGAR, DHANUKAR WADI, KANDIVLI(W)
+MUMBAI -400067",MUMBAI,400067
+3136,SPA,...,...,Engineering,Electronics,dj sanghvi college of engineering,"plot no.U-15,JVPD scheme,bhaktivedanta swami marg,vile parle (w),mumbai-400056",Male,"viceroy court,c/wing,10-c,10th floor,thakur village,kandivali(e)",Mumbai,400101
+3137,"SPA, OOPM (Java)",...,...,Engineering,Electronics,padmabhushan vasantdada patil college of engineering,sion,Male,1/12 mohd akbar chawl franciswadi jogeshwari(e),Mumbai,400060
+3138,SPA,...,...,Engineering,Computer,DJ Sanghvi College of Engineering,NULL,Female,"15, Anubhav, Garodia Nagar, Ghatkopar (E), Mumbai-400077",Mumbai,400077
+3139,"SPA, OOPM (Java), Data Structures (DSF), Android Programming, DBMS, AOAD, Automata Theory / TCS",...,...,Engineering,IT,DJSCOE,"PLOT NO.U-15,J.V.P.D SCHEME,VILEPARLE(W),MUMBAI-400056",Female,"C-19,HASMUKH NAGAR,21-TAGORE ROAD,SANTACRUZ(W),MUMBAI-400054",Mumbai,400054
+3141,SPA,...,...,Engineering,IT,Atharva College Of Engineering,"Malad-Marve road, Charkop Naka, Malad (W), Mumbai-400095",Male,"C-704, Poornima, Vasant Utsav, Thakur Village, Kandivali (East), Mumbai-400101",Mumbai,400101
+3142,SPA,...,...,Engineering,Electronics,dj sanghavi,NULL,Male,"41\814 samata nagar, kandivali east",mumbai,400101
+3143,SPA,...,...,Engineering,Electronics,Atharva College Of Engineering,CHARKOP MALAD WEST,Male,"16,MATA PRASAD CHAWL ,KOLDONGRI,LANE NO 1,SAHAR ROAD,ANDHERI EAST",MUMBAI,400069
+3144,SPA,...,...,Engineering,IT,Atharva College Of Engineering,NULL,Female,"373 SHANTVAN MHADA, OPP. SARASWAT BANK, OSHIWARA, ANDHERI-W. ",MUMBAI,400053
+3145,"SPA, DSA",...,...,Engineering,Mechanical,RAJIV GANDHI INSTITUTE  OF TECHNOLOGY,VERSOVA LINK ROAD,Male,"SHIVAM APPARMENT , SECTOR-18 , KAMOTHE , NAVI MUMBAI",Navi Mumbai,NULL
+3146,SPA,...,...,Engineering,Mechanical,piit,New panvel,Male,"6,ram bhuvan,shivaji nagar,shahaji raje rd vileparle (east)",mumbai,400057
+3147,SPA,...,...,Engineering,Biomedical,DJ SANGHVI COLLEGE OF ENGINEERING,"JVPD SCHEME, BHAKTIVEDANT SWAMI MARG, VILE PARLE",Female,"A/302 OM ELEGANCE BLDG NO. 3 CHS LTD, CHINCHOLI BUNDER ROAD, MALAD (WEST) ",MUMBAI,400064
+3148,SPA,...,...,NULL,NULL,D J Sanghvi College of Engineering,NULL,Male,"32, Samrat Ashok Society , Poddar road, Santacruz (w), Mumbai - 400054",NULL,NULL
+3149,SPA,...,...,NULL,NULL,D J Sanghvi College of Engineering,NULL,Male,"1103, 1B green acres, lohandwala complex , andheri (w) , Mumbai - 400053",NULL,NULL
+3152,"SPA, OOPM (Java)",...,...,Engineering,Mechanical,DJ SANGHVI COLLEGE OF ENGINEERING,NULL,Male,"NEW TURAKHIYA PARK,C-401,M.G.ROAD,KANDIVALI(WEST),MUMBAI-400067",MUMBAI,400067
+3153,SPA,...,...,Engineering,IT,Fr Concesao Rodrigues college of Engineering,"Bandra Band Stand, Mumbai",Male,"Rose, Mardes, Opp- Velankani Mata Church,
+Post - Nirmal
+Tal - Vasai",Nallasopara,401304
+3156,SPA,...,...,Engineering,Mechanical,D J Sanghvi College of Engineering,Ville parle,Male,"3/Gurukrupa,vithalbhai road,vile parle west,mumbai-400056",Mumbai,400056
+3157,SPA,...,...,Engineering,Biomedical,D J sanghavi college,"Plot no. U-15,
+J.V.P.D. scheme,
+Bhaktivedanta swami Marc,
+Vile parle (west),
+Mumbai- 400056",Female,"205, luv apartment,
+Veera Desai road,
+Near courtyard restaurant,
+Andheri - west.",Mumbai,400053
+3166,SPA,...,...,Engineering,Computer,NIT DURGAPUR,NATIONAL INSTITUTE OF TECHNOLOGY DURGAPUR (W.B.),Male,"NEW RUBEE KIRSHI SEVA KENDRA SIRONJ ROAD ,ARON
+DIST-GUNA(M.P.) ",Guna,473101
+3167,SPA,...,...,Engineering,instrumentation,Atharva College Of Engineering,NULL,Male,"Sawali Building,Flat No.103,Plot NO.2,RSC-6,Borivali(W),Mumbai-400091.",Mumbai,400091
+3168,"SPA, Analog Electronics-2",...,...,Engineering,Electronics,D J Sanghvi College of Engineering,"Swami Bhaktivedanta Marg, Vile Parle (West) , Mumbai-400056",Female,"A-601, Om Khushal, Tejpal Scheme Rd. no. 3, Vile Parle (East) , Mumbai-400057",Mumbai,400057
+3171,SPA,...,...,Engineering,Electronics,Shree L R Tiwari College of Engineering,"Near Commisioner Bungalow,Kanakia Park,Mira Road-East,401107",Male,"G/5, Tin Dongri Police Colony,Goregaon (West), Mumbai-400104",Mumbai,400104
+3173,SPA,...,...,Engineering,NULL,dj Sanghavi,NULL,Male,B/902 eden garden Kandivli west.  Mumbai 67,NULL,NULL
+3175,"SPA, OOPM (Java)",...,...,Engineering,Electronics,SPIT,"munshi nagar,andheri(w)",Male,"j-4 room no 4,municipal colony,bhatwadi,ghatkopar(w)",Mumbai,400084
+3177,SPA,...,...,Engineering,Biomedical,Thadoomal Shahani  College of Engineering,Linking Road bandra(west),Male,"103,Aspen Mahindra Eminente S.V.Road Near Patkar College Goregaon (west)",Mumbai,400062
+3178,SPA,...,...,Engineering,Civil,rizvi,NULL,Male,"b-206,munisuvrat chaya bldg.,
+above icici bank,
+sahar road,
+andheri e
+",Mumbai,400069
+3179,SPA,...,...,Engineering,Computer,D J  SANGHVI,NULL,Male,"(3-c,2nd floor,Vidharbha Samarat, Vallabbhai Road,Vile Parle (w),Mumbai 400056",MUmbai,400056
+3180,SPA,...,...,Engineering,Electronics,rjit,"rjit,versova link road",Male,"C/1/18,JYOTI SADAN,JUHU SCHEME,GULMOHAR ROAD NO.6",Mumbai,400049
+3181,SPA,...,...,Engineering,Computer,SHAH AND ANCHOR KUTCHHI ENGINEERING COLLEGE,"MAHAVIR EDUCATION TRUST CHOWK, W. T. PATIL MARG, NEAR DUKES COMPANY, CHEMBUR, MUMBAI-400028",Female,"235/21, REWA BHUVAN, L. J. ROAD, SHIVAJI PARK, DADAR WEST ",MUMBAI,400016
+3182,SPA,...,...,Engineering,IT,Usha Mittal Institue Of Technology,Santacruz(W),Female,"At & Post Parnali , Ambatpada 
+Tal-Palghar, Dis-Palghar",Boisar,401504
+3183,SPA,...,...,Engineering,Electronics,D J Sanghvi College of Engineering,NULL,Male,"72, Vijay Building, 1st floor, 25th road, Jain Society, Sion (w), Mumbai-400022",Mumbai,400022
+3184,SPA,...,...,Engineering,Computer,Atharva College Of Engineering,NULL,Male,"B-1102, titanium towers , new link road, Andheri(W),Mumbai- 53",Mumbai,400053
+3185,SPA,...,...,Engineering,Mechanical,RAJIV GANDHI INSTITUTE  OF TECHNOLOGY,NULL,Male,"foka house,buddha lane no.2,versova,andheri,mumbai-61",NULL,400061
+3186,SPA,...,...,Engineering,IT,D J SANGHVI COLLEGE OF ENGINEERING,NULL,Male,"A-1,102,KAMALAPARK COMPLEX,OPP.NAVRANG HOTEL,60FEET ROAD,BHAYANDER-WEST",Mumbai,401101
+3187,SPA,...,...,Engineering,IT,D J SANGHVI COLLEGE OF ENGINEERING,NULL,Male,"B/402,SARJAN COMPLEX,JESAL PARK,BHAYANDER(EAST)",Mumbai,401105
+3188,"SPA, OOPM (Java)",...,...,Engineering,Chemical,D J Sanghvi College of Engineering,NULL,Male,"B/304, Neel Laxmi (Building number 7, Laxmi Enclave), Shahaji Raje Marg, Koldongri, Vile Parle (East), Mumbai 400057.",Mumbai,400057
+3189,SPA,...,...,Engineering,Computer,Vivekanand Education Society Institute Of Technology,"Collector's colony,chembur ,mumbai-74.",Male,"592 Anil Villa,Jame Jamshed road,Matunga,Mumbai 400019.",Mumbai,400019
+3190,SPA,...,...,Engineering,Computer,Atharva College Of Engineering,NULL,Male,"86/B-17 Adarsh C.H.S., S.V.P. Nagar, Mhada, Andheri(W).",NULL,400053
+3191,SPA,...,...,Engineering,Electronics,Atharva College Of Engineering,Malad west,Male,"Namdev nivas, Patil lane-3, Versova, Andheri west.",Mumbai,400061
+3193,"SPA, OOPM (Java)",...,...,Engineering,Electronics,WATUMULL  INSTITUTE OF ELECTRONICS ENGINEERING and COMPUTER TECHNOLOGY,"47, Dr RG Thadani Marg , Worli Sea Face,Mumbai: 400018",Male,"802,Lilly tower,S.V Road , Jogeshwari(w) ,near Deewan Centre.",Mumbai,400102
+3194,"SPA, OOPM (Java)",...,...,Engineering,IT,Xaviers Institute Of engineering,Mahim,Male,"95/202 Sher-e-Punjab Society ,Andheri (E) ",Mumbai,400093
+3195,"SPA, OOPM (Java), Data Structures (DSF)",...,...,Engineering,Computer,Atharva college,"Charkop naka, malad west, mumbai",Female,"A/9,Ramdarshan,Subhash road
+Vile parle (East)",Mumbai,400057
+3196,"SPA, Data Structures (DSF), OOPM (Java)",...,...,Engineering,Civil,Vidyavardhini,Vasai west,Male,78 municipal tenaments bldg no. 6 room no. 8 sv road khar west near khar police station,Mumbai,400052
+3197,"SPA, OOPM (Java), AOAD",...,...,Engineering,IT,Rajiv Gandhi institute of Engineering,NULL,Male,"A-104 Kedarnath society,Tejpal Scheme Road no.4,Vile parle (east).",Mumbai,400057
+3198,SPA,...,...,Engineering,Electronics,RAJIV GANDHI INSTITUTE  OF TECHNOLOGY,"rgit, new link road,andheri",Male,"shivalay nivas ,narayan nagar ,hingoli _431513",Hingoli,431513
+3199,SPA,...,...,Engineering,Electronics,DJ SANGHVI COLLEGE OF ENGINEERING,Vileparle,Male,"A/4, 406, Humera Park, Malad (East)",Mumbai,400097
+3200,SPA,...,...,Engineering,IT,Xavier Institute of Engineering,"Mahim Causeway,Mahim,Mumbai-400016",Male,"803,Tower-4,Raheja Tipco Heights,Rani Sati Marg,Malad(East),Mumbai-400097",Mumbai,400097
+3201,SPA,...,...,Engineering,Computer,Bharti Vidya Bhavans Sardar Patel Institute Of Technology,NULL,Female,"18,Rupji Kanji Chawl, Haji Bunder Road, Gadi Adda, Sewri (E).",Mumbai,400015
+3202,SPA,...,...,Engineering,IT,D J Sanghvi College of Engineering,"Swami BhaktiVedanta Road, opp. Cooper hospital, Vile Parle West",Male,"104-D, Swapnalok apartment, Off new nagardas Road, opp. Wilson Pen company, andheri East. ",Mumbai,400069
+3204,SPA,...,...,Engineering,IT,TSEC,NULL,Male,"13,Leela cottage,Besant street,Santacruz (W)",Mumbai,NULL
+3205,SPA,...,...,Engineering,Computer,TSEC,NULL,Male,"H-1/28,jankalyan CHS ,bangur nagar ,Goregaon",NULL,NULL
+3206,SPA,...,...,Engineering,Computer,watumull,NULL,Male,"7/16,Geet Govind, s.v.road,jawahar nagar, goregaon(west),mumbai-400062",Mumbai,400062
+3208,SPA,...,...,Engineering,Electronics,SPIT,NULL,Male,"A-3,Dhina jyothi Apartment, Jeevan Nagar, Veera Desai Road Andheri",Mumbai,NULL
+3209,SPA,...,...,Engineering,Computer,KC,NULL,Male,"C/401,Nirman Park,Pump House J.m.Road, Andheri(E) Mum-93",Mumbai,NULL
+3211,SPA,...,...,Engineering,IT,Sardar Patel Institute of Technology,"Munshi Nagar,Andheri (W)",Male,"403,Mandar bldg.,Near Nancy colony,Borivali(E)",Mumbai,400066
+3212,SPA,...,...,Engineering,Computer,St Xaviers,NULL,Female,"304,Pridarshani Park, JB nagar,Andheri(E)",,
+3213,"SPA, OOPM (Java)",...,...,Engineering,Electronics,TSEC,BANDRA MUMBAI 400050,Male,"21, viraj chs, st. andrews road, bandra west",,400050
+3214,SPA,...,...,Engineering,Computer,TSEC,"32nd Road, Bandra west, mumbai-400050",Male,"401, Indira Classiq, 5th Golibar road, Santacruz East",Mumbai,400055
+3215,SPA,...,...,Engineering,Mechanical,D J Sanghvi,NULL,Male,"6/34 Rajendra Nagar Thrimurthi CHC. Rajendra Nagar, Dattapada Road, Borivali(E) Mumabai 400066",Mumbai,400066
+3216,SPA,...,...,Engineering,Electronics,thadomal sahni engineering college,NULL,Male,"106-B crescent chs 
+Dr. Ambedkar road 
+Opp sarvodaya video library 
+Khar",mumbai,400052
+3218,SPA,...,...,Engineering,Electronics,D J SANGHVI,"plot no U-15,J.V.P.D. Scheme,bhaktivedanta swami marg,vile parle (west),mumbai-400056",Male,"9/74,M.H.B. COLONY,G.I.C. OFF. QTRS,DR. K.C ROAD,RECLAMATION,BANDRA(WEST),MUMBAI-400050",Mumbai,400050
+3219,"OOPM (Java), Data Structures (DSF), SPA",...,...,Engineering,Electronics,Dwarkadas J Sanghvi College Of Engineering,"Dwarkadas J Sanghvi college of engineering ,Vile Parle- west",Female,"C-209, E-2 Highway Park, Thakur Complex, Kandivali-east.",Mumbai,400101
+3220,SPA,...,...,Engineering,Electronics,Veermata Jijabai Technological institute,NULL,Male,"B/82,Holy view CHS, JB shah marg,Near masjidbandar railway stn",Mumbai,400009
+3222,SPA,...,...,Engineering,Electronics,SABOO SIDDIQ COLLEGE OF ENGINEERING,"SABOO SIDDIQ COLLEGE OF ENGINEERING, IQBAL CHOWK, BYCULLA",Male,"C-7/12, JEEVAN SHANTI LIC COLONY, SANTACRUZ WEST ,S.V.ROAD",Mumbai,400054
+3223,SPA,...,...,Engineering,Mechanical,RAJIV GANDHI INSTITUTE OF TECHNOLOGY,"OFFF.JUHU VERSOVA LINK ROAD,VERSOVA,ANDHERI WEST,MUMBAI-53",Male,"5/52,VRINDAVAN,TARUN BHARAT SOCIETY,CHAKALA,ANDHERI EAST",MUMBAI,400099
+3224,"SPA, OOPM (Java)",...,...,Engineering,IT,DJ Sanghavi,NULL,Male,"Prashant building, VP road, VIle parle (W) ",Mumbai,400056
+3225,"SPA, OOPM (Java), AOAD, Android Programming, Web Progamming / IP",...,...,Others,Commerce,SIES,SION MUMBAI,Male,"D-302, D-wing ,Kailas esplanade, LBS marg, Ghatkopar",MUMBAI,400086
+3226,SPA,...,...,Engineering,Computer,Rajiv Gandhi Institute of Technology,"Rajiv Gandhi Institute of Technology, 
+Juhu Versova Link Road, Behind HDFC Bank
+Andheri West. Mumbai - 400053",Male,"17A/203, Ekta Coop Housing Society, Azad Nagar-1, Off J.P Road, Near Apna Bazaar, Andheri West.",Mumbai,400053
+3227,SPA,...,...,Engineering,Electronics,DJ Sanghavi,NULL,Male,"D404,Maitree heights,Marve road malad (W)",,
+3228,SPA,...,...,Engineering,Computer,RGIT,NULL,Male,"17A/203, Azad nagar Ekta co-op HS,Azad nagar1,Andheri(W)",NULL,NULL
+3229,"Computer Graphics, SPA",...,...,Engineering,Computer,rajiv gandhi institute of technology,"rajiv gandhi institute of engineering
+versova link road,andheri",Female,"R-203,mallu govind building
+dongri gully,versova,andheri west,400061
+",Mumbai,400061
+3231,SPA,...,...,Engineering,IT,thadomal shahani engineering college,NULL,Male,house wife,Mumbai,NULL
+3232,"SPA, Data Structures (DSF)",...,...,Engineering,IT,thadomal shahani engineering college,Bandra west,Female,house wife,Mumbai,400053
+3233,SPA,...,...,Engineering,Computer,tsec,"Bandra (west) ,mumbai-50",Male,housewife,Mumbai,400050
+3234,SPA,...,...,Engineering,biotechnology,thadomal shahani engineering college,NULL,Female,"14,omkar apts,s.v.road,santacruz(west),mumbai no. -54",mumbai,400054
+3235,SPA,...,...,Engineering,Computer,vivekanand institude of technology,NULL,Female,"2/26,old bavan chawl, t.b. kadam marg, kalachowki",Mumbai,400033
+3236,SPA,...,...,Engineering,Computer,thakur college of engineering and technology,"thakur village,kandivalli east",Male,dahisar east mumbai,mumbai,400068
+3237,"SPA, OOPM (Java)",...,...,Engineering,IT,shree L R Tiwari college,NULL,Male,"2nd ranjana niwas,tank pakadi,near samarth gym,road no.3,Sahar village,andheri(east),mumbai-400099",Mumbai,400099
+3238,SPA,...,...,Engineering,Computer,SARDAR PATEL INSTITUTE OF ENGINEERING,"8,NEW DADABHAI NAGAR Rd,MUNSHI NAGAR,ANDHERI WEST,MUMBAI-400058",Male,"21,A.C.H SOCIETY,JAISHREE,FLAT NO 3,V.P.ROAD,ANDHERI WEST",Mumbai,400058
+3239,SPA,...,...,Engineering,Electronics,Rajiv Gandhi institute of technology,"RGIT, Versova.",Female,"704,Suryakiran, Bldng no 19, Near maheshwari bhawan, off New link road,  Oshiwara, Andheri (w).",Mumbai,400053
+3240,SPA,...,...,Engineering,IT,Sardar Patel Institute of Technology,andheri(w),Female,"E-102 Yudhishtir apt, N.L.Complex, Dahisar (E),mumbai",Mumbai,400068
+3241,SPA,...,...,Engineering,Computer,TCET,NULL,Male,"3-C,FLAT NO:103,UMIYA NAGAR,VISHWESHWAR ROAD,GOREGAON-E.MUMBAI-63.",NULL,NULL
+3242,SPA,...,...,Engineering,Computer,Thakur College of Engineering and Technology,NULL,Male,"1B-1703 Whispering Palms, Lokhandwala Complex, Kandivali (East)",Mumbai,400101
+3243,SPA,...,...,Engineering,Electronics,Sardar Patel Institute of technology,"Sardar Patel Institute ofTechnology, bhavans campus, munshi nagar, andheri west",Female,"F5/702 , VIJAYNAGAR SOCIETY , S.N.ROAD, (ANDHERI EAST)",Mumbai,400069
+3244,SPA,...,...,NULL,NULL,DJ SANGHVI COLLEGE OF ENGINEERING,NULL,Male,"PRITAM,FLAT NO 18,KHAR(W),MUMBAI 400052",NULL,NULL
+3246,SPA,...,...,Others,Msc CS,Ruparel,Matunga,Male,"C 61,Akshay apt, JVK road , villeparle east, mumbai-400057.",Mumbai,400057
+3247,SPA,...,...,Engineering,Mechanical,Don Bosco Institute of Technology,Kurla west,Male,"A/303,Dheeraj Vishwas,Road No.1,Natwar Nagar,Jogeshwari(E),Mumbai-400060.",Mumbai,400060
+3249,"SPA, OOPM (Java)",...,...,Engineering,IT,st francis institute of tecnology,"Mount poinsar road,boriwali west.",Male,"304/A wing,khodiyar building,Indra lok phase-2,bhayandr east.",Thane,401105
+3250,SPA,...,...,Engineering,NULL,Xavier institute of engineering,NULL,Female,"304,priyadarshini park,j.b.nagar,andheri-(east).",NULL,NULL
+3251,SPA,...,...,Engineering,Computer,Father concecaio rodrigues college of engg bandra,NULL,Male,5-preran appt veera desai road azad nagar andheri west,Mumbai,NULL
+3252,SPA,...,...,Engineering,Computer,Fr CRCE,"Bandra(W),Bandstand ",Male,"605,Parshuram Plaza,Gandhi Chowk,Badlapur(E)",Badlapur,421503
+3253,SPA,...,...,Engineering,Electronics,D J Sanghvi College of Engineering,"D. J. SANGHVI COLLEGE OF ENGINEERING, VILE PARLE-WEST.",Female,"C/75, BENHUR SOC., CHANDAVARKAR ROAD, BORIVALI-WEST. MUMBAI-400092.",MUMBAI,400092
+3255,SPA,...,...,Engineering,Computer,vjti,NULL,Female,"2, R-13, mrunal chs , sudarshan nagar , MIDC, dombivli(e)",dombivli,421203
+3256,SPA,...,...,Engineering,Mechanical,DJ SANGHVI,NULL,Male,"804 krishna heritagee link road opp don bosco 
+borivali (w) Mumbai 400092",NULL,NULL
+3257,SPA,...,...,Engineering,Computer,Veermata Jijabai Technological institute,NULL,Male,"402,Shanti darshan eksar road, Borivali(W)",NULL,NULL
+3258,SPA,...,...,Engineering,Computer,Veermata Jijabai Technological institute,NULL,Male,"B/403,prabhu apartment,Rajawadi, Ghatkopar(E)",NULL,NULL
+3259,SPA,...,...,Engineering,Computer,DJ Sanghavi,NULL,Female,"1306,Jupiter apartment,sun city, gandhi nagar, Powai",NULL,NULL
+3260,"SPA, OOPM (Java)",...,...,Engineering,Computer,St John College Of Engineering,Palghar East,Male,305 New Parivar Sai Baba Nagar Navghar Road Bhayander East.,Thane,401105
+3262,SPA,...,...,Engineering,Mechanical,K J SOMAIYA Vidhyavihar,NULL,Male,"A/301, Mahalasa Villa, Azad Nagar-3, Veera Desai Rd, Andheri-West.",Mumbai,400058
+3263,"SPA, Android Programming",...,...,Engineering,Electronics,Thadomal Shahani Engineering College,NULL,Male,"201,Pallonji Apts. Plot no 389
+Linking Road, Khar West
+",Mumbai,400052
+3264,"SPA, OOPM (Java), DSA, Web Progamming / IP",...,...,Engineering,Electronics,Sardar Patel Institute of technology,NULL,Female,"405/B, Yamuna building, quarry road, near malad station, Malad east, Mumbai-400097",Mumbai,400097
+3265,SPA,...,...,Engineering,Computer,Sardar patel institude of technology,8 dadabhai nagar rd munshi nagar andheri west mumbai 400058,Female,room no 26 anandi bhuvan mohili village parerawadi sakinaka mumbai: 400072,Mumbai suberban,400072
+3266,SPA,...,...,Engineering,Computer,SardarPatel Institute of Technology,"8,New Dadabhai Nagar Rd, Munshi Nagar,Andheri West,Mumbai - 400058",Female,"B 1/2 Krishna CHS,Subhash Road A,Vile Parle East",Mumbai,400057
+3268,SPA,...,...,Diploma,Computer,kala Vidya Mandir,malad west malvani,Male,A-18 Common wealth CHs v.p road Andheri west,mumbai,400058
+3269,SPA,...,...,Engineering,Computer,VJTI,"Matunga,Mumbai.",Male,"B/1105,Shree vijaya Residency ,Chiwada Gaulli, Lalbaug, Mumbai-12",Mumbai,400012
+3271,SPA,...,...,Engineering,Computer,VJTI,"VJTI, H R Mahajan Marg, Near Five gardens, Matunga(East), Mumabi-400019",Male,"3/C/34, Rustomjee Regency, J.S Road, Dahisar(West)",Mumbai,400068
+3272,SPA,...,...,Engineering,Computer,tcet mumbai,NULL,Male,"603 salasar tower, nr nagar bhawan , mandli talav",bhayander west,401101
+3273,SPA,...,...,Engineering,Computer,NULL,NULL,Female,A/40 Rashtra Sarathi CHS LTD Deendayal Nagar Mulund (E) Mumbai -81,Mumbai,400081
+3274,SPA,...,...,Engineering,NULL,VJTI,NULL,Female,101 Hare Krishna CHS Raghunath Nagar Thane,NULL,NULL
+3275,SPA,...,...,Engineering,Computer,VJTI,NULL,Female,"B/904, FANTASIA, RAHEJA GARDENS, THANE(W)",NULL,NULL
+3278,SPA,...,...,Engineering,IT,Usha mittal instutude of technology,juhu campus santacruz west,Female,"Modgaon , Udhawa Road Dahanu",Dahanu,401602
+3279,SPA,...,...,Engineering,IT,usha mittal institute of technology,"juhu tara road,santacruz(w)-mumbai400",Female,"01,a-wing,baba enclave apt,nanasopara(w)-401302",mumbai,401302
+3280,SPA,...,...,Engineering,Computer,athrva college of enigennering,NULL,Female,"602,B WING RADHA KUNJ NETIVA ROAD MALAD EAST",MUMBAI,400097
+3281,SPA,...,...,Engineering,Computer,Sardar Patel Institute of Technology,NULL,Male,"31, Juhu Ajanta, Near Juhu Circle, Juhu, Andheri (W)",Mumbai,400049
+3282,"SPA, OOPM (Java)",...,...,Engineering,Computer,RAJIV GANDHI INSTITUTE  OF TECHNOLOGY,NULL,Male,"Veera desai road, Andheri west.",NULL,NULL
+3283,SPA,...,...,Engineering,Computer,Watumull institute,"r.j.thadani marg,near venus aapartments,worli seaface,mumbai",Female,"a/03,chitra bldg, sec-5, srishti complex, mira road (e)",mumbai,401107
+3284,SPA,...,...,NULL,NULL,RAJIV GANDHI INSTITUTE  OF TECHNOLOGY,NULL,Male,"e/17 , new chandra, off veera desai road, andheri (w),mumbai 400053",NULL,NULL
+3286,SPA,...,...,Engineering,IT,THADOMAL SAHANI ENGINEERING COLLEGE,Bandra West,Male,"403 ,HIll-top apartments ,Hill-area ,Section-17, Ulhasngar-3",Ulhasnagar,421003
+3287,SPA,...,...,Engineering,Computer,THADOMAL SAHANI ENGINEERING COLLEGE,"THADOMAL SHAHANI ENGINEERING COLLEGE, BANDRA WEST",Male,"A/603,RUSHABH TOWER, SUNICTY, VASAI-WEST
+MUMBAI 401202 ",MUMBAI,401202
+3288,SPA,...,...,Engineering,Computer,thadomal shahani engineering college,BANDRA (W).,Male,"317/6 GAGANGIRI CHS .SEC-3,CHARKOP KANDIVALI (W).
+MUMBAI 400067.",Mumbai,400067
+3290,"SPA, OOPM (Java), DSA",...,...,Engineering,Computer,atharva,"ATHARVA COLLEGE OF ENGINEERING, CHARKOP NAKA,MALAD WEST, MUMBAI",Male,"B/402, SHREE KRISHNA BLDG, KAMALA VIHAR SPORTS CLUB ROAD, KANDIVALI WEST.",MUMBAI,400067
+3292,SPA,...,...,Engineering,Computer,RAJIV GANDHI INSTITUTE  OF TECHNOLOGY,Andheri west,Male,"B-801 evershine cosmic, behram baug, Oshiwara",Mumbai,400102
+3294,SPA,...,...,Engineering,IT,SNDT,"SNDT, JUHU TARA ROAD,SANTACRUZ(W.)",Female,"208,vasant kunj chs,dattwadi,kulgaon, badlapur (east)",badlapur,421503
+3295,SPA,...,...,Engineering,Computer,THADOMAL SAHANI ENGINEERING COLLEGE,Bandra West,Male,"105, Charkop Riddhi Siddhi Chs Ltd, RSC-21 Plot No 5 Sector 1 Charkop Kandivali west",Mumbai,400067
+3297,SPA,...,...,Engineering,Electronics,sardar patel institute of technology,"munshi nagar,bhavanscampus,andheri east,mumbai ",Male,"1202,vastu riddhi b wing,rajmata jijabai road,pumphouse andheri east,mumbai 400093",Mumbai,400093
+3299,SPA,...,...,NULL,NULL,kmkmkm,NULL,Male,"dfdfdf
+dfdfd",sdsdsds,NULL
+3305,SPA,...,...,Engineering,IT,KJ SOMAIYA COLLEGE OF ENGINEERING,VIDYAVIHAR EAST,Female,"716,utility mansion,dand-pada,khar-w",Mumbai,400052
+3306,SPA,...,...,Engineering,Electronics,D J Sanghvi College OF engg,Vile PArle West,Male,"B-17,Sarvana CHS
+P M Road,Kankuwadi,Vile Parle east",MUMBAI,400057
+3307,SPA,...,...,Engineering,Computer,NULL,NULL,Male,"248' Chayyavihar, 
+gulmohar cross road no 10,
+jvpd scheme,
+juhu,
+andheri west",Mumbai,NULL
+3308,SPA,...,...,Engineering,Electronics,thakur college of engineering and technology,KANDIVALI,Male,"2B/92 WINDERMERE BLDG, OFF NEW LINK ROAD, OSHIWARA , ANDHERI(W)
+",MUMBAI,400053
+3309,SPA,...,...,Engineering,IT,Thakur college Of Engineering And Technology,THAKUR COLLEGE OF ENGINEERING AND TECHNOLOGY KANDIVAL(EAST)  MUMBAI.,Male,Plot no.35 Kalpana Darshan A 501 L.T.Nagar Road No.3 M.G.Road Goregaon(west),Mumbai,400062
+3310,SPA,...,...,Bscit,IT,University Department Of Information Technology,Santacruz East,Male,"Behind cycle shop no.2 ,Near shiv sena shakha ,old C.S.T. road 
+Kalina santacruz East ",Mumbai,400029
+3311,"SPA, OOPM (Java), Android Programming, AOAD",...,...,Bscit,NULL,University Department Of Information Technology,Santacruz (E),Male,"Laxmi Niwas Chawl, Adarsh Nagar, Kalina, Santacruz (E)",Mumbai,400029
+3312,"SPA, Applied Mathematics-2",...,...,Engineering,IT,RGIT,JUHU VERSOVA LINK ROAD ANDHERI WEST,Male,"402 B WING IVY TOWER VASANT VALLEY,MALAD EAST ",MUMBAI,400097
+3315,"OOPM (Java), SPA",...,...,Engineering,IT,Rajiv gandhi institute of technology,VERSOVA,Female,"BLDG NO.1,""C"" WING,FLAT NO.701,SAKI VIHAR CHS.LTD,SAKIVIHAR COMPLEX,SAKIVIHAR ROAD,SAKINAKA,
+ANDHERI(E).",MUMBAI,400072
+3317,SPA,...,...,NULL,NULL,DJ Sanghvi,NULL,Male,"601,Tulip, 
+Arram Society Road,
+Santacruz East",Mumbai,400055
+3318,"SPA, OOPM (Java)",...,...,Engineering,IT,fr agnel bandra,"fr agnel ashram,bandstand,bandra(west),mumbai:400050",Male,"8/202,riddhi-siddhi chs,vijay nagar,bandra(east)",mumbai,400051
+3319,"SPA, OOPM (Java)",...,...,Engineering,Chemical,D J Sanghvi College of Engineering,"J.V.P.D SCHEME,OPP. COOPER HOSPITAL,VILE PARLE(WEST)",Male,"9/C-303,ALICA NAGAR ,LOKHANDWALA COMPLEX, KANDIVALI(EAST)",Mumbai,400101
+3320,SPA,...,...,Diploma,NULL,xyz,pqrs,Male,sfdjhfdjfh dkfjkdfd,Mumbai,NULL
+3323,SPA,...,...,Engineering,Computer,Sardar Patel Institute of Technology,"Munahi nagar 
+Andheri (west)
+Mumbai 400058",Male,"B/304,On Amar Deep Chs ltd
+Sodawla lane
+Borivali(w)",mumbai,400092
+3324,SPA,...,...,Engineering,Electronics,Fr Conceicao Rodrigues College of Engineering,"Bandstand, Bandra West, Mumbai 400050",Male,"3C-32, Manali, Evershine Nagar, MALAD West",Mumbai,400064
+3325,SPA,...,...,Engineering,IT,father Agnels,fr CRCE bandstand Bandra,Male,"1301/3B, phase 6 , siddhachal , thane ",thane,400619
+3326,"SPA, OOPM (Java), DSA, Android Programming, Web Progamming / IP",...,...,Engineering,Computer,rajiv gandhi institute of technology,NULL,Male,"b-105,raj residency2,mahavir nagar , kandivali west",mumbai,400067
+3327,SPA,...,...,Engineering,Computer,Gangamai college of Engg,Nagoan Dhule,Male,"21,tirupati nager deopur Dhule ,Maharashtra",Dhule,424005
+3328,SPA,...,...,NULL,NULL,vjti,NULL,Male,b306 golden sands bldg svp nagar andheri west,mumbai,400053
+3329,SPA,...,...,Engineering,instrumentation,RAJIV GANDHI INSTITUTE OF TECHNOLOGY,"RGIT ,VERSOVA , LINK ROAD",Female,"R 236 INDIAN OIL NAGAR ,JP ROAD NEAR MANISH MARKET,ANDHERI WEST",Mumbai,400053
+3330,SPA,...,...,Engineering,IT,Sardar Patel institute of technology,"Bhavans campus, andheri west, mumbai",Female,"B-605 Rajkumar corner, near azad nagar metro station, JP road, andheri west",mumbai,400051
+3331,SPA,...,...,Engineering,Computer,Sardar Patel Institute of Technology,NULL,Female,"C-1/502,Progressive Bldg,Dattaram Lad Marg,Chichpokli",Mumbai,400012
+3332,"SPA, OOPM (Java), DSA, Web Progamming / IP, Ethical Hacking",...,...,Engineering,IT,TSEC,NULL,Male,"Achal-B,505,Kalyan Complex,Yari Road, Versova, Andheri West",Mumbai,400061
+3334,"SPA, OOPM (Java)",...,...,Engineering,Computer,Xavier Institute of Engineering,NULL,Male,"304, 20/B, Ekdant CHS, New Mahada Colony, Dindoshi, Goregaon (East)",Mumbai,NULL
+3335,SPA,...,...,Engineering,Computer,TSEC,BANDRA LINK ROAD,Male,"612/6,SAPTASHRUNGI,OSHIWARA,BEHIND OSHIWARA POLICE STATION,OPP CITY INTERNATIONAL SCHOOL.",MUMBAI,400102
+3336,"SPA, DSA, Android Programming, Web Progamming / IP",...,...,Engineering,Mechanical,DON BOSCO INSTITUTE OF TECHNOLOGY,KURLA,Male,"17/201,ROSE NAGAR NAIGAON WEST",MUMBAI,401201
+3337,SPA,...,...,Engineering,IT,ATHARVA COLLEGE,NULL,Male,"9/112 ANITA NAGAR, LOKHANDWALA COMPLEX, AKURLI ROAD, KANDIVALI(EAST)",Mumbai,400101
+3340,SPA,...,...,Engineering,Electronics,watumull engg college,worli sea face,Male,"5/327, old mhb colony , gorai roaD borivali west ",Mumbai,400091
+3342,SPA,...,...,Engineering,Production,NIT Trichy,"NIT Trichy, Thanjavur Road , NH-67. 620015 Tamil Nadu India",Male,"Rajgrah, Sundar Nagar Near Kabra Nagar Nanded",Nanded,431605
+3343,"SPA, OOPM (Java), DSA, Web Progamming / IP",...,...,NULL,NULL,Vjti,Matunga,Male,"303,D Wing, Saifee Park,Mazgaon ,mumbai-10",Mumbai,400010
+3346,SPA,...,...,Engineering,Computer,Thadomal Sahani College of Engineering,"linking road,bandra(W),mumbai-400050",Male,"12,VAIBHAV,DADABHAI ROAD NO.2,SHASTRI NAGAR,SANTACRUZ(W).",Mumbai,400054
+3347,SPA,...,...,Engineering,Computer,THADOMAL SHAHANI COLLEGE OF ENGINEERING,"NATIONAL COLLEGE CAMPUS, BANDRA (WEST), MUMBAI 400050.",Male,"GULMOHAR, PLOT NO. 167, RSC 45, MHADA LAYOUT, SECTOR 2, GORAI ROAD, BORIVALI (WEST), MUMBAI 400091.",Mumbai,400091
+3349,SPA,...,...,Engineering,Computer,Sardar Patel Institute of Technology,"Bhavans Campus, Munshi Nagar, Andheri (West), Mumbai",Female,"F-503,krishna Gokul garden, Thakur Complex, Kandivali (East)",Mumbai,400101
+3350,"SPA, OOPM (Java)",...,...,Engineering,Computer,Sardar Patel Institute of Technology,"BHAVANS VAMPUS,MUNSHI NAGAR,ANDHERI- W, MUMBAI-400058",Male,"D-902,EKTA MEADOWS,SIDDHARTH NAGAR,OPP WESTREN EXPRESS HIGHWAY,BORIVALI- EAST,MUMBAI-066",Mumbai,400066
+3351,"SPA, OOPM (Java)",...,...,Engineering,Electronics,Manipal institute of technology,"Manipal institute of technology, udupi district, mangalore, karnataka",Male,"121/122 C wing Santvani Tower,Opp. devidas lane,LIC Colony,Borivali west,Mumbai 400103 ",Mumbai,400103
+3352,SPA,...,...,Engineering,IT,Sardar Patel Institute of Technology,munsinagar andheri,Male,room 1 saisadan society sakinaka mumbai 72,Mumbai,400072
+3353,"Data Structures (DSF), SPA",...,...,Engineering,Computer,MPSTME NMIMS Mumbai,"Behind homeopathy college, JVPD scheme
+Ville parle (west)",Male,"C-13 Chand society , Near pratiksha juhu , ville parle (west).",Mumbai,400056
+3354,SPA,...,...,Engineering,Computer,Mukesh Patel School of Technology Management and Engineering,NULL,Male,"1001 Tirthal Apts, 4th NS Road, Behind Cooper Hospital, JVPD, Vile Parle West",Mumbai,400056
+3355,SPA,...,...,Engineering,Computer,Mukesh Patel school of technology management and engineering,NULL,Female,"2/G/3, Blue Arch, Convent Avenue,Four Bunglows, Andheri West, Mumbai-53",Mumbai,NULL
+3356,"SPA, OOPM (Java), Data Structures (DSF), Linux Administration",...,...,Engineering,Computer,Fr Conceicao Rodrigues College of engineering,"Bandstand, Bandra (w), Mumbai - 400050",Male,"34, B-2, Sector-2, Shanti Nagar, Mira Road(E).",Thane,401107
+3358,SPA,...,...,Engineering,Computer,SRM UNIVERSITY,"SRM UNIVERSITY
+RAMAPURAM CAMPUS
+CHENNAI-400089",Male,"A-7, CHHADVA NAGAR
+MATCH FACTORY LANE
+KURLA-WEST
+MUMBAI-400070",MUMBAI,400070
+3359,"SPA, OOPM (Java)",...,...,Diploma,Electronics,Shri Bhagubhai Mafatlal Polytechnic,Vile Parle (W),Male,"93/404, Poonam Complex, Shanti Park, Mira Road (E)",Thane,401107
+3362,SPA,...,...,Others,NULL,NA,NULL,Male,"Lokhandwala, Andheri W, Near to lokhandwala complex, Samartha Prasad 503-504",Mumbai,NULL
+3363,SPA,...,...,Engineering,Electronics,Manipal institute of technology,"Manipal institute of technology,near tiger circle, manipal,udupi,district,mangalore",Male,"121/122 C-wing,santvani tower,Opp. devidas lane,LIC Colony,Borivali west",Mumbai,400103
+3364,SPA,...,...,Others,NULL,Jamnabai Narsee School,NULL,Female,"501, Radhika CHS, Plot No. 55, Gulmohar Main Road, JVPD Scheme, Vile Parle (West)",Mumbai,400049
+3365,"Data Structures (DSF), SPA, OOPM (Java), Automata Theory / TCS",...,...,Engineering,Computer,Sardar Patel Institute of Technology,"bhavan's campus,munshi nagar,andheri west mumbai-400058",Female,"manish bldg n0 1,flat no 7,b.p.marg,kandarpada,dahisar west.",Mumbai,400068
+3366,SPA,...,...,Engineering,Computer,Atharva College Of Engineering,"ATHARVA COLLEGE OF ENGINEERING, OFF MARVE ROAD, MALAD WEST, MUMBAI- 400095",Male,"207, TAURUS BLDG., JANKALYAN NAGAR, MALAD WEST",MUMBAI,400095
+3370,"SPA, OOPM (Java), AOAD",...,...,Engineering,IT,COEP,"Shivaji Nagar, Pune",Male,"A-304, SunBeam, Raheja Vihar, Chandivali, Powai",Mumbai,400072
+3375,SPA,...,...,Engineering,IT,kjsomaiya institute of engineering and information technology,"somaiya ayurvihar complex,eastern express highway,near everard  nagar,sion east,maharashtra 400022",Male,"203/A RAMAN ASHISH,SHANTILAL MODI CROSS ROAD NO2,OPP.JAIN TEMPLE
+IRANIWADI,KANDIVLI (WEST),",Mumbai,400067
+3376,SPA,...,...,Engineering,IT,St Francis,Borivali West,Female,"226/11,Ganesh Smruti,Road Number 14,Jawaharnagar,Goregaon West",Mumbai,400062
+3378,"SPA, OOPM (Java), Android Programming",...,...,Engineering,Computer,Atharva College Of Engineering,Malad- West,Female,"Shree Ganesh Chawl, Veera Desai Road, Andheri-West, Mumbai-400058",Mumbai,400058
+3379,SPA,...,...,Engineering,IT,NMIMS MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT AND ENGINEERING,"BEHIND HOMEOPATHY COLLEGE,BHAKTI VEDANT SWAMI MARG,NEAR COOPER HOSPITAL,JVPD SCHEME,VILEPARLE (WEST),MUMBAI-400056",Female,"B/B 305, NAND DHAM, L.T. ROAD, BORIVALI (WEST).",Mumbai,400092
+3380,"SPA, OOPM (Java)",...,...,Engineering,Computer,Vidyavardhinis College of Engineering and Technology,Vasai(West),Male,"13/B Chandrakanta C.H.S  Ltd,
+virar(east)",virar,401305
+3381,SPA,...,...,Engineering,IT,MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT AND ENGINEERING,NULL,Male,"102,RAJKIRAN APT.,KHANDWALA LANE,DAFTARY ROAD,MALAD (EAST)",MUMBAI,400097
+3385,SPA,...,...,Engineering,IT,D J Sanghvi College Of Enginering,NULL,Male,"501-502,laxmi bhuvan,sainath nagar, ghatkopar west",Mumbai,400086
+3386,SPA,...,...,Engineering,ocean engineering,iit madras,NULL,Male,"B-105 Ashiana, St John Baptist Road, Bandra-West, mUMBAI-400050",Mumbai,400050
+3388,SPA,...,...,Engineering,IT,Vellore institute of technology,NULL,Male,"10,seven stars,plot no 495,khar west,mumbai-400052",,
+3395,SPA,...,...,Engineering,IT,RGIT,Versova,Female,"Plot no 15,Sector 28,vashi",Mumabi,400710
+3397,SPA,...,...,Engineering,Computer,DJ SANGHVI,NULL,Female,"15,ANUBHAV,GARODIA NAGAR,GHATKOPAR(E),MUMBAI",Mumbai,400077
+3400,SPA,...,...,Engineering,Computer,Sardar Patel Institute of Technology,NULL,Male,"701,7th flr , Praman Residency , opp Arya Samaj , near V.p Road Police Station , V.p Road , Sickkanagar ,Girgaon,Mumbai",Mumbai,400004
+3405,SPA,...,...,Engineering,Computer,D J Sanghvi College of Engineering,VILEPARLE (W),Male,"A/204, NAGWEKAR CHS NO.2, NEAR SAIBABA HOSPITAL, OPPOSITE NKGSB BANK, AKURLI MAIN ROAD, KANDIVALI (EAST), MUMBAI-400101",MUMBAI,400101
+3418,"SPA, OOPM (Java)",...,...,Engineering,Computer,fr agnel,NULL,Male,"201,patel avenue,near kamalanagar,M.G Road,kandivali-west,mumbai-67",Mumbai,400067
+3419,"SPA, DSA",...,...,Engineering,IT,Xavier Institute of Technology,Mahim.,Female,"17/C-1202, Onkar C.H.S, Opp.Oberoi Mall, Gen.A.K.Vaidya Marg, Dindoshi. Mlad (East)",Mumbai,400097
+3423,"SPA, OOPM (Java)",...,...,Engineering,IT,DWARKADAS  SANGHVI COLLEGE OF ENGINEERING,"PLOT NO-U-15,J.V.P.D SCHEME,BHAKTIVEDANTA SWAMI MARG,VILE PARLE WEST,MUMBAI-400056",Male,"3,KRISHNA BHUVAN,SAINATH ROAD ,MALAD WEST",Mumbai,400064
+3425,SPA,...,...,Engineering,IT,Xavier Institute of Engineering,"Mahim Causeway, 
+Opp Raheja Hospital,
+Mumbai-400 016.",Male,"A/102,Ramayan C.H.S.,
+Kandarpada Road,
+Dahisar-West.
+",Mumbai,400068
+3428,"SPA, OOPM (Java), Data Structures (DSF), AOAD",...,...,Engineering,Computer,Thakur college Of Engineering And Technology,NULL,Male,"B-103,JEEVAN VIBHUTI,HAJI BAPU ROAD,MALAD EAST,MUM-97",Mumbai,400097
+3430,SPA,...,...,Engineering,Computer,Sardar Patel Institute of Technology,"Munshi nagar, near Azad nagar metro station, Andheri West, Mumbai",Female,"Flat no. 604, Building A, Bhoomi Arcade, Ashoknagar, Kandivali East, Mumbai",Mumbai,400101
+3444,"SPA, Data Structures (DSF), AOAD",...,...,Engineering,Computer,DJ Sanghvi college of engineering,"Plot no. 15, J.V.P.D. scheme, vile parle west",Male,"A/23, Matruchaya, Vithal Bhai Road, Vile Parle (West)",Mumbai,400056
+3449,"SPA, OOPM (Java), Data Structures (DSF), AOAD",...,...,Engineering,Computer,Sardar Patel Institute of Technology,"spit,munshi nagar,andheri west",Male,"b/208,mehta patel shopping centre,modi patel road,bhayander west",Mira Bhayandar,401101
